@@ -1,0 +1,3800 @@
+Bill Haley & his Comets, 1955, 36.503
+Chris Brown, 2008, 10.765
+Celine Dion, 1998, 35.405
+Sinead O'Connor, 1990, 35.135
+The Beatles, 1968, 34.442
+Bryan Adams, 1991, 34.367
+Whitney Houston, 1992, 34.112
+Pink Floyd, 1980, 32.02
+Irene Cara, 1983, 31.305
+Elton John, 1997, 31.054
+The Rolling Stones, 1965, 31.054
+Coolio, 1995, 30.822
+Eminem, 2002, 30.554
+Cher, 1998, 30.065
+Usher, 2004, 29.535
+The Beatles, 1970, 29.443
+Procol Harum, 1967, 29.428
+Bee Gees, 1978, 29.347
+Eddy Grant, 1983, 10.763
+Leona Lewis, 2008, 29.316
+The Sugababes, 2005, 10.74
+The Police, 1983, 28.976
+Mariah Carey, 1995, 10.73
+Colbie Caillat, 2007, 10.727
+Kim Carnes, 1981, 28.919
+Desmond Dekker, 1969, 10.724
+The Temptations, 1972, 10.717
+Rihanna & Jay-Z, 2007, 28.653
+The Pretenders, 1980, 10.716
+Kay Kyser, 1948, 10.712
+George Harrison, 1971, 27.598
+Maroon 5, 2007, 10.711
+Stan Getz & Charlie Byrd, 1962, 7.213
+Hall & Oates, 1982, 10.708
+Abba, 1976, 27.582
+The Police, 1981, 10.702
+P Diddy & Faith Evans, 1997, 27.543
+Cliff Richard, 1968, 7.211
+Britney Spears, 1999, 27.487
+The New Radicals, 1999, 10.69
+The Beatles, 1964, 27.47
+Craig David, 2001, 7.211
+The Turtles, 1967, 10.688
+Michael Jackson, 1983, 27.395
+John Farnham, 1987, 7.21
+Bobby Darin, 1959, 27.33
+Mr Mister, 1985, 10.682
+John Travolta & Olivia Newton-John, 1978, 26.79
+Norah Jones, 2002, 7.209
+Bessie Smith, 1923, 10.68
+USA For Africa, 1985, 26.681
+Jefferson Starship, 1985, 10.676
+Bing Crosby, 1944, 7.207
+Hanson, 1997, 26.574
+Olivia Newton-John, 1978, 10.663
+The Box Tops, 1968, 7.206
+Madonna, 1990, 26.504
+Phil Collins & Marilyn Martin, 1985, 7.206
+Britney Spears, 2007, 10.662
+Spice Girls, 1996, 26.329
+Bee Gees, 1971, 7.205
+Roy Orbison, 1964, 26.309
+Paul McCartney, 1971, 10.651
+Oliver, 1969, 7.204
+Eminem, 2002, 26.225
+Nelly Furtado, 2006, 10.632
+The Backstreet Boys, 1999, 7.204
+The Village People, 1978, 25.951
+Gene Vincent, 1956, 7.198
+Stevie Wonder, 1984, 25.939
+Roy Acuff, 1938, 7.196
+Patti LaBelle & Michael McDonald, 1986, 10.629
+The Beastie Boys, 1998, 7.184
+George Michael, 1984, 25.89
+will.i.am & Britney Spears, 2013, 10.621
+Gina G, 1996, 7.182
+John Lennon, 1971, 25.732
+Jennifer Rush, 1985, 10.619
+Oasis, 2000, 7.181
+Survivor, 1982, 25.708
+Madonna, 1997, 10.593
+The Coasters, 1959, 7.181
+Los Del Rio, 1996, 25.687
+Ricky Martin, 2000, 7.179
+Marvin Gaye, 1973, 10.593
+Elvis Presley, 1960, 25.657
+Haddaway, 1993, 7.178
+Creedence Clearwater Revival, 1970, 10.591
+UB40, 1993, 25.587
+Shakespear's Sister, 1992, 10.59
+The Wanted, 2012, 7.177
+Connie Francis, 1960, 10.589
+OutKast, 2003, 25.543
+George Michael, 1992, 7.176
+George Michael, 1987, 10.582
+Queen, 1976, 25.468
+Madonna, 1989, 7.176
+Eric Clapton, 1974, 10.577
+Barbra Streisand, 1980, 25.365
+Hanson, 1997, 7.174
+Tony Bennett, 1951, 10.576
+Katy Perry, 2008, 25.365
+Sheryl Crow, 1997, 7.172
+Belinda Carlisle, 1988, 5.671
+Judy Garland, 1939, 25.291
+Tracy Chapman, 1988, 10.572
+Ronan Keating, 1999, 7.168
+Elvis Presley, 1960, 25.254
+OutKast, 2004, 7.168
+Julie London, 1955, 5.671
+David Soul, 1977, 10.571
+No Doubt, 1997, 25.142
+Marty Robbins, 1959, 7.167
+Jo Stafford, 1952, 5.67
+Shakira & Wyclef Jean, 2006, 25.09
+Madonna, 1986, 10.568
+Pilot, 1975, 7.164
+50 Cent, 2003, 25.013
+The Hollies, 1969, 5.67
+Rihanna, 2007, 7.163
+Natasha Bedingfield, 2004, 10.564
+Kylie Minogue, 2001, 24.965
+Jessie J, 2012, 5.669
+Oasis, 2002, 7.156
+Yolanda Be Cool & DCup, 2010, 10.556
+The Black Eyed Peas, 2003, 24.945
+Helen Kane, 1928, 7.149
+Stan Kenton, 1944, 5.669
+The Four Seasons, 1962, 10.556
+The Rolling Stones, 1973, 24.602
+Fergie & will.i.am, 2007, 7.149
+The Rolling Stones, 1997, 5.668
+The Tremeloes, 1967, 10.547
+OutKast, 2004, 7.147
+Mungo Jerry, 1970, 24.345
+Neil Sedaka, 1959, 10.545
+Gloria Estefan, 1994, 5.666
+Jimi Hendrix, 1968, 7.147
+Peter Cetera, 1986, 10.543
+Vaughn Monroe, 1949, 24.324
+Pink, 2002, 7.143
+Suzi Quatro, 1973, 10.542
+Dan Hartman, 1984, 5.666
+Lady GaGa, 2009, 24.27
+Terence Trent D'Arby, 1987, 10.537
+Bruce Channel, 1962, 7.143
+Diana Ross & The Supremes, 1969, 5.665
+Coldplay, 2003, 10.537
+Owl City & Carly Rae Jepsen, 2012, 7.142
+Ace of Base, 1994, 24.202
+Justin Timberlake, 2003, 10.521
+Jan Hammer, 1985, 5.664
+The Pet Shop Boys, 1993, 10.52
+Johnny Hates Jazz, 1987, 7.139
+Harry James, 1943, 10.519
+Carl Douglas, 1974, 24.144
+The Beach Boys, 1968, 7.137
+Coldplay, 2005, 5.663
+Walter Murphy & The Big Apple Band, 1976, 10.511
+The Beastie Boys, 2004, 7.128
+Dire Straits, 1979, 10.508
+Justin Timberlake, 2006, 24.062
+Nick Lachey, 2006, 5.662
+Alveno Rey, 1942, 7.126
+BLACKstreet & Dr Dre, 1996, 10.504
+Faith No More, 1993, 7.124
+The Pussycat Dolls, 2006, 10.5
+Erasure, 1988, 5.66
+Madonna, 2005, 23.935
+Ray Stevens, 1970, 7.123
+Tommy James & the Shondells, 1968, 10.492
+Sonny & Cher, 1966, 7.122
+Electric Light Orchestra, 1979, 5.66
+Elvis Presley, 1957, 23.827
+The Cranberries, 1994, 10.487
+Missy 'Misdemeanor' Elliott, 2005, 7.122
+Aretha Franklin & George Michael, 1987, 10.481
+The Beatles, 1965, 23.82
+Dionne Farris, 1995, 7.122
+Led Zeppelin, 1972, 5.66
+Deee-Lite, 1990, 10.481
+Mamie Smith, 1920, 7.119
+Joan Jett & The Blackhearts, 1982, 23.739
+The Emotions, 1977, 10.478
+Aretha Franklin, 1971, 7.119
+Mike Posner, 2010, 5.66
+The Kinks, 1964, 7.116
+Yazz & The Plastic Population, 1988, 10.476
+Ricky Martin, 1999, 23.729
+Frank Sinatra, 1957, 7.11
+Elvis Presley, 2003, 5.656
+Duran Duran, 1984, 10.474
+Mary J Blige & U2, 2006, 7.109
+Avicii, 2013, 10.47
+The Monkees, 1967, 23.629
+Helen Reddy, 1972, 5.653
+Pinetop Smith, 1928, 7.109
+The Sweet, 1973, 10.458
+Crispian St Peters, 1966, 7.106
+The Hollies, 1972, 10.457
+Shakira, 2002, 23.62
+Johnny Standley, 1952, 5.65
+Ned Miller, 1963, 10.454
+Dave Brubeck, 1961, 7.104
+Rihanna & Calvin Harris, 2011, 23.373
+Ne-Yo, 2007, 10.428
+T.I. & Justin Timberlake, 2009, 7.098
+Steve Miller Band, 1977, 5.649
+Styx, 1983, 7.097
+Madonna, 2006, 10.427
+Roger Whittaker, 1975, 5.648
+Frank Sinatra, 1966, 23.348
+George Michael, 1990, 10.424
+The Sweet, 1974, 7.097
+Rosemary Clooney, 1954, 10.419
+Aerosmith, 1997, 5.646
+Sousa's Band, 1901, 7.097
+Bruce Springsteen, 1994, 23.234
+Spandau Ballet, 1983, 10.409
+Taio Cruz & Ludacris, 2010, 10.408
+Marion Harris, 1921, 5.645
+Johnnie Taylor, 1976, 7.096
+The Righteous Brothers, 1965, 23.199
+The Rolling Stones, 1965, 10.406
+The Fugees, 1996, 5.642
+Rihanna, 2011, 7.094
+Rockwell, 1984, 10.403
+All-4-One, 1994, 23.163
+Bloodhound Gang, 1999, 10.401
+Neil Diamond, 1980, 7.094
+Nelson Riddle, 1956, 5.642
+Lorde, 2013, 10.39
+Glenn Miller, 1940, 23.153
+All Saints, 2000, 7.093
+Fool's Garden, 1996, 10.386
+Chuck Berry, 1956, 5.641
+Free, 1970, 10.385
+Beats International, 1990, 7.093
+Lou Bega, 1999, 23.068
+Various Artists, 1997, 5.637
+The New Seekers, 1972, 10.372
+The Supremes, 1966, 7.092
+Drake & Rihanna, 2012, 5.635
+The Royal Scots Dragoon Guards, 1972, 10.364
+Doris Day, 1956, 23.058
+T.I., 2008, 7.091
+Chris Barber's Jazz Band, 1959, 10.361
+Gene Pitney, 1962, 5.634
+Tony Bennett, 1953, 10.347
+Radiohead, 1993, 7.091
+Flo-Rida & T-Pain, 2008, 23.053
+Bruce Springsteen, 1985, 10.347
+OneRepublic, 2008, 5.634
+Marc Anthony, 1999, 7.09
+U2, 1991, 10.346
+Nat King Cole, 1950, 23.002
+Queen, 1976, 5.634
+Spice Girls, 1998, 10.341
+Eric Burdon & War, 1970, 7.089
+Lumidee, 2003, 10.339
+Gabriella Cilmi, 2008, 7.089
+The Heights, 1992, 5.634
+Dido, 2001, 10.322
+Terry Jacks, 1974, 23
+Linkin Park, 2007, 10.319
+Mariah Carey, 1990, 7.088
+Naughty By Nature, 1991, 5.633
+Foreigner, 1981, 10.319
+Miley Cyrus, 2009, 7.085
+Culture Club, 1983, 22.967
+David Bowie & Mick Jagger, 1985, 10.31
+Simon & Garfunkel, 1966, 5.632
+Erasure, 1994, 7.085
+The Beatles, 1965, 10.303
+Grand Funk Railroad, 1973, 5.632
+Aerosmith, 1998, 22.96
+The Backstreet Boys, 2005, 10.302
+The Crystals, 1963, 7.083
+Duke Ellington, 1933, 5.631
+Mary Wells, 1964, 10.3
+Ed Sheeran, 2012, 5.63
+Blur, 1997, 7.083
+Elton John, 1973, 10.3
+Blondie, 1979, 22.929
+Climax, 1972, 5.629
+Chris Brown, 2008, 10.296
+New Kids On The Block, 1989, 7.082
+Steely Dan, 1974, 5.629
+Mouth & MacNeal, 1972, 10.294
+Boyz II Men, 1992, 22.898
+Sarah McLachlan, 1999, 7.082
+Mantovani, 1953, 5.628
+Beyonce & Jay-Z, 2006, 10.291
+Ferry Aid, 1987, 5.625
+String-A-Longs, 1961, 7.077
+The Fugees, 1996, 22.861
+Steam, 1970, 10.29
+Usher, 1998, 5.625
+Tony Orlando & Dawn, 1973, 22.858
+White Town, 1997, 10.29
+La Roux, 2009, 7.077
+Donny Osmond, 1971, 5.624
+Fergie, 2007, 22.615
+John Cougar Mellencamp, 1982, 10.285
+Bob Hope & Shirley Ross, 1938, 7.076
+Dru Hill, 1998, 5.622
+Shocking Blue, 1970, 22.535
+Michael Jackson, 1972, 10.28
+Association, 1967, 5.62
+Grover Washington Jr, 1981, 7.075
+Eagles, 1977, 22.532
+Michael Jackson, 1997, 10.259
+The Tremeloes, 1968, 5.62
+Neil Sedaka, 1962, 10.258
+Bing Crosby, 1944, 22.468
+Gorillaz, 2001, 7.072
+The Sweet, 1973, 5.619
+Johnny Mercer, 1945, 10.258
+Aerosmith, 1990, 7.071
+Queen, 1984, 10.254
+The Beatles, 1967, 22.448
+Ricky Nelson, 1958, 5.619
+Bee Gees, 1976, 10.252
+George Harrison, 1971, 7.063
+Metallica, 1992, 5.617
+The Andrews Sisters, 1938, 10.247
+Bryan Adams & Melanie C, 1998, 5.617
+Chubby Checker, 1960, 22.42
+TLC, 1995, 7.062
+The Beatles, 1964, 10.244
+Wynonie Harris, 1948, 5.616
+Sammy Davis Jr, 1972, 7.058
+Vaughn Monroe, 1947, 10.243
+Paula Abdul, 1991, 5.615
+Nelly & Kelly Rowland, 2002, 22.401
+Billy Joel, 1978, 10.238
+The Veronicas, 2009, 7.05
+Harry James, 1945, 5.614
+Sammy Kaye, 1941, 10.234
+The Killers, 2008, 7.049
+Earth, Wind & Fire, 1979, 5.609
+Iyaz, 2010, 10.226
+The Beatles, 1964, 22.398
+Spice Girls, 1997, 5.608
+The Fray, 2009, 7.047
+Abba, 1975, 10.224
+Savage Garden, 1999, 5.607
+Spice Girls, 1997, 7.043
+Lynyrd Skynyrd, 1974, 10.212
+Beyonce, 2003, 22.139
+Culture Club, 1983, 5.607
+Dusty Springfield & The Pet Shop Boys, 1987, 10.203
+Gym Class Heroes, 2007, 7.043
+The Cranberries, 1994, 5.607
+Band Aid 20, 2004, 10.198
+The Black Eyed Peas, 2009, 22.126
+Offspring, 2000, 5.605
+Bruce Springsteen, 1985, 7.039
+50 Cent & Justin Timberlake, 2007, 10.198
+Eagles, 1975, 5.603
+Sting, 1991, 7.038
+Stevie Wonder, 1980, 10.193
+John Lennon, 1980, 22.094
+Lionel Richie, 1982, 5.603
+Abba, 1976, 10.188
+Bruce Springsteen, 1992, 7.032
+Ke$ha, 2010, 5.603
+Modjo, 2000, 10.174
+Barenaked Ladies, 1998, 7.03
+Culture Club, 1982, 22.065
+INXS, 1991, 5.602
+Gene Austin, 1926, 10.174
+Eagles, 1979, 7.028
+Hot Chocolate, 1976, 10.16
+Brandy & Monica, 1998, 22.026
+The Beatles, 1964, 5.602
+Joe Thomas & Mystikal, 2001, 7.025
+The Byrds, 1965, 10.157
+The Ink Spots, 1941, 10.157
+Golden Earring, 1974, 7.025
+David Bowie, 1982, 5.599
+Madonna, 1989, 21.992
+Madonna, 2000, 10.139
+The Honeycombs, 1964, 7.023
+Celine Dion, 1995, 10.139
+Vicki Sue Robinson, 1976, 5.599
+Suzi Quatro, 1973, 7.022
+Sean Kingston, 2007, 21.963
+KC & The Sunshine Band, 1976, 10.138
+The Chi-Lites, 1972, 5.598
+Simon & Garfunkel, 1970, 10.137
+Robert John, 1979, 7.021
+Cutting Crew, 1986, 10.133
+Prince, 1984, 21.902
+The Marvelettes, 1961, 7.02
+T Rex, 1971, 10.125
+Miami Sound Machine, 1986, 5.598
+Barry McGuire, 1965, 10.123
+Helen Shapiro, 1961, 7.018
+The Beatles, 1965, 21.879
+Phil Phillips, 1959, 5.595
+Elvis Presley, 1962, 10.12
+Aqua, 1998, 7.016
+Jim Reeves, 1960, 10.116
+The Pussycat Dolls, 2005, 21.864
+Soul For Real, 1995, 5.594
+Al Jolson, 1922, 7.015
+The Everly Brothers, 1957, 10.115
+Doris Day & Buddy Clark, 1948, 7.014
+Bing Crosby, 1943, 10.108
+Bing Crosby & The Jesters, 1946, 5.592
+Bee Gees, 1978, 21.854
+Missy 'Misdemeanor' Elliott, 2002, 10.105
+The Osmonds, 1971, 7.012
+Madonna, 2003, 10.104
+Morris Stoloff, 1956, 5.592
+Michael Jackson, 1983, 7.005
+Rosemary Clooney, 1954, 10.101
+Diana Ross, 1980, 21.735
+Aerosmith, 1994, 5.592
+Carly Simon, 1977, 10.097
+Glen Gray, 1944, 6.998
+Whitney Houston, 1988, 10.094
+Madonna, 2000, 21.688
+U2, 2002, 6.996
+Mark Dinning, 1960, 5.591
+Yes, 1984, 10.089
+Jefferson Airplane, 1967, 6.991
+James Blunt, 2007, 10.088
+Nickelback, 2002, 21.637
+The Silhouettes, 1958, 5.591
+Celine Dion, 1996, 10.088
+Kool & The Gang, 1984, 6.991
+Leo Sayer, 1980, 10.079
+REM, 1994, 5.59
+Bobby Vee, 1961, 6.985
+Archies, 1969, 21.613
+The Simpsons, 1991, 10.077
+The Police, 1980, 10.076
+Frankie Laine, 1953, 6.984
+Dido, 2001, 5.59
+Jimmy Boyd, 1952, 10.065
+Christina Aguilera, Lil' Kim, Mya & Pink, 2001, 21.557
+The Who, 1967, 5.588
+Nelly, 2001, 6.983
+Lesley Gore, 1963, 10.058
+Vic Damone, 1949, 10.054
+Edelweiss, 1989, 5.587
+Ruby & The Romantics, 1963, 6.983
+A-Ha, 1985, 21.527
+Glenn Miller, 1943, 10.053
+Paul Anka, 1958, 5.586
+U2, 1997, 6.976
+Frankie Lymon & The Teenagers, 1956, 10.049
+Las Ketchup, 2002, 21.48
+Smokey Robinson, 1970, 10.045
+Fred Astaire, 1938, 5.586
+blink-182, 2000, 6.975
+Rihanna, 2010, 10.028
+The Detroit Spinners, 1973, 5.586
+The Beatles, 1969, 21.431
+Boyz II Men, 1993, 6.975
+Sugar Ray, 1999, 10.028
+Margaret Whiting, 1949, 5.585
+The Calling, 2002, 10.026
+Eric Clapton, 1978, 6.972
+The Police, 1983, 5.585
+Rob Thomas & Santana, 1999, 21.397
+Stevie Wonder, 1973, 10.019
+Kevin Rudolf & Lil' Wayne, 2009, 5.583
+Des'ree, 1995, 6.971
+Club Nouveau, 1987, 10.014
+NAS, 1996, 5.581
+Janet Jackson, 1993, 10.012
+Snow, 1993, 21.344
+Enya, 2002, 6.971
+The Zombies, 1964, 5.58
+Guy Mitchell, 1952, 5.579
+Perry Como, 1947, 10.011
+Shakin' Stevens, 1981, 6.97
+Timbaland & OneRepublic, 2007, 21.261
+Herman's Hermits, 1965, 5.578
+Chad Kroeger, 2002, 10.009
+Wayne Newton, 1972, 5.578
+Yazoo, 1982, 6.97
+Johnny Preston, 1960, 10.005
+Marion Harris, 1919, 5.576
+t.A.T.u., 2003, 21.261
+The Staple Singers, 1972, 6.969
+Linda Ronstadt, 1977, 5.575
+Hues Corporation, 1974, 10.004
+Busta Rhymes, 1998, 6.968
+Take That, 1995, 21.14
+Led Zeppelin, 1971, 9.988
+Milli Vanilli, 1989, 6.966
+The Beatles, 1967, 21.084
+Spice Girls, 1997, 9.987
+Sting & Cheb Mami, 2000, 6.963
+INXS, 1990, 9.986
+Chicago, 1976, 21.072
+Supertramp, 1977, 5.575
+Crystal Gayle, 1977, 6.962
+Donna Summer, 1978, 9.985
+The Honeydrippers, 1984, 5.574
+The Monkees, 1968, 6.961
+Aqua, 1997, 21.012
+The Small Faces, 1968, 5.574
+KLF, 1991, 9.981
+Nora Bayes, 1917, 5.571
+Sly & The Family Stone, 1968, 6.959
+Gnarls Barkley, 2006, 20.983
+Mr President, 1996, 9.977
+Pearl Jam, 1992, 5.571
+Alexandra Stan, 2011, 6.959
+Mariah Carey, 1996, 9.973
+The Pointer Sisters, 1985, 5.569
+Fifth Dimension, 1969, 6.957
+Ray Stevens, 1974, 6.957
+Nelly & Tim McGraw, 2005, 9.967
+Leadbelly, 1936, 5.567
+The Beatles, 1995, 6.956
+Blondie, 1980, 20.956
+Kelly Clarkson, 2009, 9.967
+Ultravox, 1981, 6.953
+Bee Gees, 1968, 5.567
+Glenn Frey, 1985, 6.952
+Whitney Houston, 1987, 20.902
+Guns n' Roses, 1992, 9.962
+The Clash, 1982, 6.951
+Blondie, 1980, 5.565
+Alien Ant Farm, 2001, 6.95
+The Spin Doctors, 1993, 9.953
+Elton John & Kiki Dee, 1976, 20.883
+Black Box, 1989, 6.949
+Black Box, 1990, 5.565
+Guy Lombardo, 1944, 6.946
+Kelly Clarkson, 2005, 9.953
+Dr Hook, 1978, 5.562
+KC & The Sunshine Band, 1977, 6.946
+Ace of Base, 1993, 20.874
+Ronan Keating, 2002, 5.561
+REO Speedwagon, 1985, 6.944
+Annie Lennox, 1995, 9.952
+Herman's Hermits, 1967, 5.56
+Sweetbox, 1998, 6.943
+Boney M, 1978, 20.873
+Dee Dee Sharp, 1962, 5.558
+Clout, 1978, 9.931
+The Four Tops, 1965, 6.941
+Louis Prima, 1958, 5.558
+The Andrews Sisters, 1948, 6.939
+Barry White, 1973, 5.558
+Pitbull, 2009, 9.93
+Michael Jackson, 1991, 20.863
+Wings, 1974, 6.938
+Doris Day, 1954, 5.557
+The Yardbirds, 1965, 6.934
+Aventura, 2004, 6.934
+Imagination, 1982, 5.556
+Destiny's Child, 2001, 9.927
+Simon & Garfunkel, 1970, 20.863
+Robbie Williams, 1998, 6.933
+Mariah Carey, 2001, 5.556
+Peter & Gordon, 1966, 6.931
+Perry Como, 1949, 9.924
+The Human League, 1982, 5.554
+Chic, 1979, 20.857
+Faith Hill, 1998, 6.929
+Jessica Simpson, 2000, 5.552
+Vic Damone, 1956, 6.923
+Pink & Nate Ruess, 2013, 9.919
+Joe South, 1969, 5.551
+TLC, 1999, 20.818
+Guns n' Roses, 1988, 6.912
+Coldplay, 2002, 5.551
+Missy 'Misdemeanor' Elliott, 2001, 6.911
+Katy Perry, 2013, 9.912
+Brook Benton, 1970, 5.551
+Nancy Sinatra, 1966, 20.799
+Soul II Soul, 1989, 9.908
+The Foo Fighters, 2005, 5.548
+Robbie Williams, 2005, 6.91
+Ray Charles, 1962, 20.777
+Ted Lewis & his Orchestra, 1931, 5.548
+Red Hot Chili Peppers, 2002, 9.904
+The Supremes, 1964, 6.907
+Martha & The Vandellas, 1963, 5.547
+Ringo Starr, 1971, 9.904
+The O'Jays, 1972, 5.547
+Meat Loaf, 1993, 20.751
+T Rex, 1971, 6.904
+Monica, 1997, 5.546
+George Michael, 1986, 9.903
+Lawrence Welk, 1961, 6.904
+Chubby Checker, 1961, 20.744
+Brian Hyland, 1970, 5.546
+Beyonce, 2003, 9.895
+Coolio, 1996, 5.544
+Roy Orbison, 1961, 6.903
+Slade, 1973, 5.544
+Percy Faith, 1960, 20.739
+The Three Degrees, 1974, 9.886
+Ike & Tina Turner, 1973, 6.9
+Julie Rogers, 1964, 5.543
+Smash Mouth, 1998, 5.543
+LMFAO, 2011, 20.722
+Will Smith, 2005, 9.882
+MC Hammer, 1990, 6.895
+Prince, 1994, 5.539
+Stardust, 1998, 6.893
+Shakira, 2005, 5.538
+Fairground Attraction, 1988, 9.878
+Santo & Johnny, 1959, 6.893
+James Blunt, 2005, 20.719
+Mad'house, 2002, 5.537
+Fats Waller, 1929, 6.89
+Heart, 1987, 9.877
+Fergie, 2008, 5.537
+Don McLean, 1972, 20.702
+Tina Charles, 1976, 6.89
+Cab Calloway & his Cotton Club Orchestra, 1931, 9.876
+Ben E King, 1961, 20.684
+20 Fingers, 1995, 5.536
+Guy Mitchell, 1951, 6.889
+Bryan Adams, Rod Stewart & Sting, 1994, 20.622
+Robbie Williams, 2000, 9.874
+Earth, Wind & Fire, 1975, 6.888
+Pink, 2008, 20.607
+Sir Douglas Quintet, 1969, 5.536
+Danny & The Juniors, 1957, 9.867
+Phil Collins, 1989, 20.584
+Bryan Adams, 1996, 6.886
+Paul McCartney & Stevie Wonder, 1982, 20.497
+Billie Holiday, 1939, 9.86
+Jamiroquai, 1996, 5.535
+Green Day, 1994, 6.884
+Lady GaGa & Colby O'Donis, 2008, 20.459
+Ray Charles, 1959, 9.854
+Eiffel 65, 1999, 20.448
+Oran 'Juice' Jones, 1986, 6.884
+Whitney Houston, 1987, 5.533
+Petula Clark, 1965, 20.447
+The Ames Brothers, 1953, 9.853
+Busta Rhymes & Mariah Carey, 2003, 6.884
+Michael Jackson, 1983, 20.326
+Orchestral Manoeuvres In The Dark, 1986, 5.531
+Darude, 2000, 6.882
+TLC, 1999, 9.845
+The Human League, 1982, 20.294
+Fat Joe, 2002, 6.875
+Rick Astley, 1987, 20.285
+Nat King Cole, 1953, 9.842
+Aaliyah, 1998, 5.53
+Londonbeat, 1990, 20.269
+Billy Idol, 1990, 6.874
+Akon & Snoop Dogg, 2007, 9.842
+The Kingston Trio, 1958, 20.203
+Madonna, 1998, 5.53
+Question Mark & The Mysterians, 1966, 6.868
+Bing Crosby & The Andrews Sisters, 1944, 20.052
+Simply Red, 1995, 9.841
+Barry Manilow, 1976, 6.866
+Al Stewart, 1977, 5.529
+Berlin, 1986, 20.034
+Taylor Dayne, 1993, 5.529
+Dean Martin, 1964, 9.84
+Faith No More, 1990, 6.865
+Beyonce, 2006, 20.027
+Tommy Dorsey, 1937, 5.525
+Gordon Lightfoot, 1974, 6.861
+Toni Basil, 1982, 9.833
+Paul Whiteman, 1930, 5.524
+Nirvana, 1992, 19.917
+Kid Cudi & Crookers, 2009, 6.859
+The Animals, 1965, 5.523
+En Vogue, 1997, 9.832
+Fifth Dimension, 1970, 5.522
+Millie Small, 1964, 9.83
+U2, 2000, 19.889
+Modern Talking, 1985, 6.856
+Jim Reeves, 1964, 5.522
+Chris Brown & T-Pain, 2007, 9.829
+Gym Class Heroes, 2011, 5.521
+Britney Spears, 2000, 6.855
+Booker T & the MGs, 1962, 9.817
+Dinah Shore, 1948, 19.851
+Vera Lynn, 1942, 5.521
+Pink Floyd, 1973, 6.854
+Run DMC & Aerosmith, 1986, 9.816
+Avril Lavigne, 2007, 19.834
+Ace of Base, 1995, 5.521
+Michael Jackson, 1988, 6.852
+George McCrae, 1974, 19.799
+David Bowie, 1975, 9.814
+Sam The Sham & The Pharaohs, 1966, 5.52
+Eddie Holman, 1970, 6.848
+Bone Thugs-n-Harmony, 1996, 9.812
+Gloria Gaynor, 1979, 19.727
+Eric Weissburg & Steve Mandell, 1973, 5.52
+Michael Buble, 2007, 5.519
+Ricky Martin, 1998, 9.806
+Mariah Carey, 1994, 19.661
+Jay & the Americans, 1965, 6.847
+Mel Blanc, 1951, 6.847
+Pink, 2008, 5.519
+Martika, 1989, 9.803
+Abba, 1974, 19.544
+The Backstreet Boys, 1998, 6.846
+2 Unlimited, 1994, 5.518
+Mel & Kim, 1987, 9.798
+Les Paul & Mary Ford, 1953, 19.525
+Stevie Wonder, 1969, 6.845
+Tone Loc, 1989, 5.518
+House of Pain, 1992, 6.841
+Frank Sinatra, 1955, 9.796
+Vanilla Ice, 1990, 19.487
+Doris Day, 1952, 6.838
+Wilson Phillips, 1990, 5.518
+Little Richard, 1955, 9.789
+Anton Karas, 1950, 19.48
+Jody Watley, 1989, 5.518
+American Breed, 1968, 6.838
+Creedence Clearwater Revival, 1971, 9.785
+Abba, 1976, 19.47
+Will Glahe & his Orchestra, 1939, 5.517
+Art Lund, 1947, 6.833
+Youngbloods, 1969, 5.517
+Steve Winwood, 1988, 9.784
+R Kelly, 1997, 19.448
+Bucks Fizz, 1981, 6.832
+Neil Sedaka, 1962, 5.516
+The Crystals, 1962, 6.831
+Take That, 2006, 9.784
+Avril Lavigne, 2002, 19.432
+Nick Gilder, 1978, 6.825
+Staind, 2001, 5.516
+The Beatles, 1967, 19.365
+The Supremes, 1965, 9.784
+Luniz, 1996, 6.822
+Destiny's Child, 1998, 5.514
+Anastacia, 2000, 9.779
+Eminem & Rihanna, 2010, 19.353
+Shelley Fabares, 1962, 6.82
+The Chordettes, 1958, 5.514
+Freda Payne, 1970, 9.772
+Adele, 2011, 19.322
+Bing Crosby, 1942, 6.817
+The Buckinghams, 1967, 5.513
+James Taylor, 1971, 9.766
+Doris Day, 1954, 19.318
+Genesis, 1986, 6.816
+Wizzard, 1973, 5.509
+Regina Belle & Peabo Bryson, 1993, 9.764
+Olivia Newton-John, 1981, 19.308
+Connie Francis, 1959, 6.815
+Gin Blossoms, 1996, 5.509
+Boyz II Men, 1994, 19.291
+Jennifer Lopez, 2001, 9.763
+Michael Bolton, 1991, 6.813
+Whitney Houston, 1988, 5.507
+Madonna & Justin Timberlake, 2008, 19.271
+Crazy World of Arthur Brown, 1968, 9.754
+Eminem, 2003, 6.813
+The Carpenters, 1973, 9.749
+Bryan Adams, 1995, 19.25
+Terry Stafford, 1964, 5.507
+Depeche Mode, 1987, 6.812
+The Rolling Stones, 1967, 9.731
+MC Hammer, 1990, 19.235
+Bobby Rydell, 1960, 5.506
+Juice Newton, 1981, 6.81
+Wilbert Harrison, 1959, 9.73
+Gotye & Kimbra, 2012, 19.226
+The Coasters, 1957, 5.506
+Ray Noble, 1947, 6.808
+Toni Braxton, 1994, 9.727
+Starsound, 1981, 19.173
+Eruption, 1979, 5.505
+Elton John, 1988, 6.807
+Eve & Gwen Stefani, 2001, 9.725
+Lipps Inc, 1980, 19.117
+Ella Fitzgerald, 1937, 5.505
+The Mills Brothers, 1944, 9.723
+Nat King Cole, 1951, 19.108
+Sheryl Crow, 2002, 6.805
+Black, 1987, 5.504
+Dave Edmunds, 1971, 9.718
+The Backstreet Boys, 1999, 19.096
+The Everly Brothers, 1959, 6.805
+Inner Circle, 1993, 5.503
+Mike Oldfield, 1983, 9.717
+Celine Dion, 1996, 19.083
+Edgar Winter Group, 1973, 6.804
+Wham!, 1985, 9.712
+Falco, 1986, 19.049
+Ray Parker Jr & Raydio, 1981, 5.501
+Petula Clark, 1966, 6.804
+LMFAO, 2011, 9.706
+Bruno Mars, 2011, 19.047
+Mory Kante, 1988, 5.501
+Boyz II Men, 1997, 6.803
+U2, 1998, 9.705
+The Beach Boys, 1966, 19.003
+KT Tunstall, 2006, 5.499
+Michael Bolton, 1993, 6.8
+Michael Jackson, 1995, 9.687
+Bee Gees, 1967, 19.002
+The Who, 1971, 6.793
+Abba, 1979, 5.499
+David Bowie, 1976, 6.791
+Kay Kyser, 1942, 9.679
+Dionne Warwick & Friends, 1986, 19.002
+Bing Crosby & Grace Kelly, 1956, 6.79
+Toni Braxton, 1997, 5.498
+John Paul Young, 1978, 9.678
+The Animals, 1964, 18.968
+Womack & Womack, 1988, 6.789
+Andy Gibb, 1978, 5.496
+Dionne Warwick, 1964, 6.785
+Harry James, 1943, 9.678
+Britney Spears, 2004, 18.941
+Billy Vaughn, 1955, 6.782
+Adele, 2008, 5.495
+Cee-Lo Green, 2010, 9.665
+Cyndi Lauper, 1984, 18.927
+Elmore James, 1951, 5.494
+C&C Music Factory, 1991, 6.78
+Supertramp, 1979, 9.659
+Pink, 2002, 18.895
+Stevie Wonder, 1973, 5.492
+MIA, 2008, 6.777
+Owl City, 2009, 9.658
+Tennessee Ernie Ford, 1955, 18.843
+David Bowie, 1984, 5.491
+The Boomtown Rats, 1979, 9.654
+Mary Hopkin, 1968, 18.84
+Paris Hilton, 2006, 6.774
+The Hollies, 1967, 5.49
+Take That, 1996, 9.651
+The Beatles, 1964, 18.837
+Linda Ronstadt, 1975, 5.489
+Looking Glass, 1972, 6.774
+En Vogue, 1992, 9.65
+Jo Stafford, 1952, 18.837
+Pat Boone, 1961, 5.489
+Michael Jackson, 1992, 5.489
+T.I. & Rihanna, 2008, 9.647
+The Beatles, 1966, 18.833
+Stan Freberg, 1953, 6.773
+Prince, 1987, 5.488
+Brian Hyland, 1960, 9.638
+Lynn Anderson, 1971, 18.807
+Lou Christie, 1966, 5.487
+Kelly Clarkson, 2006, 6.773
+The Specials, 1981, 5.482
+Smokey Robinson, 1981, 9.636
+Tina Turner, 1984, 18.807
+Sean Paul, 2006, 5.481
+Phil Collins, 1985, 6.771
+Les Brown, 1945, 9.633
+Band Aid, 1984, 18.791
+Ne-Yo, 2008, 5.481
+Association, 1967, 5.481
+Bing Crosby & Les Paul, 1945, 9.632
+The Rolling Stones, 1969, 18.788
+Duran Duran, 1983, 6.766
+Kelis, 2004, 5.477
+Ike & Tina Turner, 1966, 5.477
+Green Day, 2004, 9.631
+Mariah Carey & Boyz II Men, 1995, 18.785
+Frank Sinatra, 1946, 5.474
+UB40 & Chrissie Hynde, 1985, 6.765
+Chic, 1979, 9.63
+Roberta Flack, 1973, 18.705
+Status Quo, 1968, 5.473
+Janet Jackson, 1987, 5.473
+Kajagoogoo, 1983, 9.623
+Katy Perry, 2008, 18.641
+Leapy Lee, 1968, 6.765
+Wilson Pickett, 1966, 5.469
+Billy Joel, 1979, 9.621
+TLC, 1995, 18.631
+Jimmy Dorsey, 1941, 5.468
+Grandmaster Flash & The Furious Five, 1982, 6.765
+Candi Staton, 1976, 5.468
+Earth, Wind & Fire, 1981, 9.62
+Roxette, 1990, 18.611
+Roy Orbison, 1963, 6.765
+Bros, 1988, 5.465
+Russ Morgan, 1949, 6.764
+Ella Fitzgerald, 1948, 5.465
+Deep Blue Something, 1996, 9.615
+Bee Gees, 1979, 18.607
+Dusty Springfield, 1969, 6.764
+The Rolling Stones, 1964, 5.464
+Shania Twain, 2002, 6.761
+Rasmus, 2003, 9.611
+The Beatles, 1964, 18.581
+ATC, 2000, 5.463
+Arthur Godfrey, 1947, 6.76
+R Kelly, 1994, 5.463
+Edwin Starr, 1970, 9.609
+Los Lobos, 1987, 18.546
+Domenico Modugno, 1959, 5.462
+U2, 1993, 6.76
+The Ames Brothers, 1950, 9.605
+The Chordettes, 1954, 18.533
+En Vogue, 1990, 5.462
+Oliver, 1969, 5.462
+A Taste of Honey, 1978, 9.601
+Rod Stewart, 1971, 18.501
+The Rolling Stones, 1972, 6.757
+Mocedades, 1974, 5.461
+The Prodigy, 1996, 9.599
+Phil Collins, 1988, 18.476
+Aphrodite's Child, 1968, 5.461
+Hot Chocolate, 1978, 5.46
+Bon Jovi, 1988, 6.755
+Ricky Martin, 1997, 9.596
+Zager & Evans, 1969, 18.463
+The Turtles, 1967, 5.46
+The Cars, 1984, 5.459
+Mariah Carey, 1995, 18.463
+Usher, 2002, 9.594
+Passenger, 2013, 6.755
+George Michael, 1987, 18.455
+Perry Como, 1951, 9.594
+Betty Hutton, 1946, 6.751
+Boyz II Men, 1994, 9.593
+Foreigner, 1985, 18.45
+Dawn, 1970, 6.747
+Cliff Richard, 1963, 9.584
+Elvis Presley, 1956, 18.448
+New Kids On The Block, 1990, 5.459
+Styx, 1979, 9.584
+Beyonce & Shakira, 2007, 18.439
+Savage Garden, 1997, 6.742
+Roxy Music, 1981, 5.458
+Dead Or Alive, 1985, 9.581
+Elvis Presley, 1969, 18.423
+The Chi-Lites, 1971, 5.458
+The Beatles, 1966, 6.738
+Train, 2010, 9.581
+Elton John, 1973, 18.41
+Tom Jones, 1970, 5.458
+Seether & Amy Lee, 2004, 5.454
+Cyndi Lauper, 1986, 9.578
+Madonna, 1986, 18.398
+Beyonce, 2004, 6.736
+Paul Anka, 1960, 5.454
+Vernon Dalhart, 1925, 9.576
+Toni Braxton, 1996, 18.373
+Five, 1998, 5.452
+Fastball, 1998, 6.735
+Gerry & the Pacemakers, 1963, 5.451
+Michael Jackson, 1988, 9.576
+The Black Eyed Peas, 2003, 18.372
+DeBarge, 1985, 5.451
+Kenny Rogers & Dolly Parton, 1983, 9.574
+Eric Clapton, 1992, 18.351
+Billy Joel, 1974, 5.45
+Alicia Keys, 2003, 6.733
+Nickelback, 2007, 5.45
+Nat King Cole, 1946, 9.572
+Carly Simon, 1973, 18.304
+Teresa Brewer, 1955, 5.447
+Jay-Z, Rihanna & Kanye West, 2009, 6.733
+Will Smith, 1997, 18.295
+Sam Cooke, 1957, 9.57
+The Ink Spots, 1940, 6.729
+Men Without Hats, 1983, 9.569
+Evanescence, 2003, 18.276
+The Mamas & The Papas, 1967, 5.447
+Tab Hunter, 1957, 9.566
+Diana Ross & Lionel Richie, 1981, 18.254
+Depeche Mode, 2005, 6.728
+Johnny Rivers, 1966, 5.446
+Stevie Wonder, 1985, 9.566
+David Bowie, 1983, 18.247
+John Miles, 1976, 5.446
+John Denver, 1975, 6.727
+Phil Collins, 1985, 9.555
+Steve Miller Band, 1982, 18.223
+Henry Mancini, 1969, 5.445
+Gloria Estefan & Miami Sound Machine, 1988, 5.445
+KC & The Sunshine Band, 1975, 9.553
+Wet Wet Wet, 1994, 18.203
+John Lennon, 1969, 6.727
+Fisk University Jubilee Quartet, 1909, 5.444
+Maxi Priest, 1990, 9.545
+Akon, 2005, 18.195
+Bobby Darin, 1962, 5.443
+Def Leppard, 1988, 6.722
+Alicia Keys, 2002, 5.443
+Ray Charles, 1961, 9.54
+Michael Jackson, 1995, 18.187
+Soul II Soul & Caron Wheeler, 1989, 5.442
+Marc Almond & Gene Pitney, 1989, 6.721
+Alice Cooper, 1972, 9.539
+Christina Aguilera, 1999, 18.172
+Ma Rainey, 1925, 5.442
+Conway Twitty, 1959, 5.442
+Doris Day, 1950, 9.538
+Everything But The Girl, 1996, 18.167
+Alphaville, 1984, 6.714
+Hall & Oates, 1984, 5.441
+Boyzone, 1998, 9.536
+Savage Garden, 1998, 18.137
+Lisa Stansfield, 1991, 5.44
+Don McLean, 1972, 6.713
+Stevie Wonder, 1975, 5.439
+Patti Page, 1952, 9.534
+The Mills Brothers, 1943, 18.093
+Cascada, 2009, 6.713
+Waldo De Los Rios, 1971, 5.438
+Sandra, 1985, 9.531
+Bobby McFerrin, 1988, 18.052
+Westlife, 1999, 6.712
+The Scaffold, 1969, 5.438
+Madonna, 1984, 6.712
+Mya, 2000, 5.438
+The Cowsills, 1969, 9.53
+Bee Gees, 1978, 18.03
+Perry Como & The Fontane Sisters, 1949, 6.71
+Pink & William Orbit, 2003, 5.437
+Alicia Keys, 2001, 18.018
+Kylie Minogue, 2007, 6.708
+Usher, 2005, 5.437
+Destiny's Child, 1999, 6.708
+Harry Belafonte, 1957, 5.437
+Eamon, 2004, 18.002
+Dante Thomas, 2001, 5.437
+Salt-N-Pepa, 1993, 6.706
+Pink, 2006, 9.529
+Shaggy, 1995, 17.973
+All-4-One, 1995, 5.436
+Dan Hill, 1978, 5.434
+Gary Puckett & The Union Gap, 1968, 6.705
+Count Basie, 1937, 9.525
+Patti Page, 1950, 17.91
+Bruce Springsteen, 1985, 5.434
+Elton John, 1990, 5.433
+New Order, 1983, 6.703
+The Cars, 1984, 9.524
+Frankie Goes To Hollywood, 1984, 17.858
+Dionne Warwick & The Detroit Spinners, 1974, 5.43
+Jewel, 1998, 6.702
+Robbie Williams, 2002, 9.522
+Lady GaGa, 2009, 17.847
+Chicago, 1985, 5.429
+Rocky Burnett, 1980, 6.699
+Georgie Fame, 1968, 9.52
+Elvis Presley, 1956, 17.84
+Rare Earth, 1970, 6.699
+Jimmy Dorsey, 1941, 9.518
+Madonna, 1998, 17.789
+The Fortunes, 1965, 5.428
+Eagles, 1975, 6.699
+Christina Aguilera, 2003, 17.777
+Slade, 1973, 5.427
+Chingy, 2003, 6.697
+Snoop Dogg & Charlie Wilson & Justin Timberlake, 2005, 9.517
+Chumbawamba, 1997, 17.766
+Sutherland Brothers & Quiver, 1976, 5.427
+Janet Jackson, 1986, 6.696
+Swinging Blue Jeans, 1964, 5.427
+Fats Domino, 1956, 17.709
+MARRS, 1987, 9.516
+Marmalade, 1969, 6.696
+Elvis Presley & JXL, 2002, 17.674
+Bo Donaldson & the Heywoods, 1974, 5.426
+The Andrews Sisters, 1944, 6.695
+The Seekers, 1967, 9.516
+James Brown, 1970, 5.426
+Domenico Modugno, 1958, 17.67
+Elvis Presley, 1958, 6.694
+Donovan, 1969, 9.516
+Alicia Keys, 2007, 17.632
+All-4-One, 1994, 5.425
+Lady GaGa, 2009, 6.693
+Christina Aguilera, 2004, 5.424
+Donna Summer, 1979, 17.619
+Nickelback, 2005, 6.692
+The Song Spinners, 1943, 9.515
+Bobby Brown, 1992, 5.423
+The Pet Shop Boys, 1986, 17.615
+Jay-Z, 1998, 6.692
+Beck, 1994, 9.508
+Gladys Knight & The Pips, 1973, 5.422
+The Bangles, 1986, 17.58
+The Doobie Brothers, 1973, 6.691
+John Lee Hooker, 1948, 5.42
+Mariah Carey, 2005, 17.556
+Blue Diamonds, 1960, 6.691
+Whitney Houston, 1993, 9.507
+Chantays, 1963, 5.42
+Daniel Powter, 2005, 17.539
+Paul Whiteman, 1922, 6.687
+Captain & Tennille, 1980, 9.507
+Bob Wills & his Texas Playboys, 1940, 5.42
+Four Non Blondes, 1993, 17.509
+Hank Williams, 1949, 6.686
+Tom Jones, 1965, 5.419
+Janet Jackson, 1993, 17.495
+Nat King Cole, 1944, 6.685
+Stevie B, 1991, 9.504
+The Foo Fighters, 2007, 5.419
+Queen, 1980, 17.481
+Status Quo, 1975, 6.685
+1910 Fruitgum Co, 1968, 5.418
+Carly Rae Jepsen, 2012, 17.47
+Lolita, 1960, 6.684
+Queen, 1978, 9.499
+J Geils Band, 1982, 17.428
+Kate Bush, 1985, 5.415
+Elvis Presley, 1958, 6.683
+Abba, 1980, 9.498
+Nelly, 2010, 5.413
+Nelly Furtado & Timbaland, 2006, 17.424
+Lindsey Buckingham, 1982, 6.682
+Love & Rockets, 1989, 5.41
+Patrick Hernandez, 1979, 17.42
+Kool & The Gang, 1980, 6.682
+Fleetwood Mac, 1977, 9.497
+The Chemical Brothers, 2005, 6.682
+Double, 1986, 5.409
+Culture Beat, 1993, 17.419
+Simple Minds, 1985, 9.489
+East 17, 1994, 6.681
+Bon Jovi, 1989, 5.409
+U2, 1987, 17.402
+The Jackson 5, 1979, 5.407
+Buddy Holly, 1959, 6.679
+Rihanna, 2007, 17.375
+The Carpenters, 1970, 9.488
+The Seekers, 1965, 6.678
+Jimmy Nail, 1992, 5.407
+Seal, 1995, 17.371
+Barry Manilow, 1975, 9.488
+Maurice Williams & The Zodiacs, 1960, 6.675
+MC Hammer, 1991, 5.404
+Bon Jovi, 1994, 17.371
+Limp Bizkit, 2000, 6.673
+Bryan Adams, 1993, 17.369
+The Sugababes, 2001, 5.402
+Jon Secada, 1992, 9.486
+Fats Domino, 1955, 6.665
+Marie Osmond, 1973, 5.401
+Pat Boone, 1962, 17.367
+U2, 2001, 6.665
+Minnie Riperton, 1975, 9.484
+Wilson Phillips, 1991, 5.4
+Tears For Fears, 1985, 17.367
+Blue Swede, 1974, 6.663
+Pink, 2000, 5.399
+Bonnie Tyler, 1983, 17.336
+Boney M, 1978, 9.479
+Cassie, 2006, 6.663
+Eydie Gorme, 1963, 5.399
+Wham!, 1984, 17.323
+Spiller & Sophie Ellis-Bextor, 2000, 9.472
+Tom Jones & Mousse T, 2000, 6.661
+Pink, 2002, 9.471
+The Crew-Cuts, 1954, 17.31
+Billy Vera, 1987, 5.399
+Phil Collins, 1983, 9.47
+Marilyn McCoo & Billy Davis Jr, 1977, 6.66
+Wreckx-N-Effect, 1992, 5.397
+Green Day, 2005, 17.287
+The Rembrandts, 1995, 9.456
+Diana Ross, 1976, 6.656
+The Beatles, 1966, 17.238
+Air Supply, 1981, 5.397
+Toto, 1982, 9.447
+Gracie Fields, 1948, 6.656
+Cliff Edwards (Ukelele Ike), 1940, 9.445
+POD, 2002, 5.396
+Bill Medley & Jennifer Warnes, 1987, 17.236
+Flo-Rida & David Guetta, 2010, 9.44
+Clarence Carter, 1970, 6.655
+Bon Jovi, 1990, 17.195
+Jimmy Castor Bunch, 1972, 5.396
+Metallica, 1996, 9.439
+The Clash, 1991, 6.653
+Alanis Morissette, 1998, 9.439
+The Beatles, 1969, 5.394
+Eminem, 2000, 17.191
+Christina Milian, 2004, 6.652
+The Sweet, 1972, 9.437
+The Platters, 1959, 17.102
+Prince, 1985, 5.393
+Jay Sean & Lil' Wayne, 2009, 9.431
+The Newbeats, 1964, 6.65
+The Shirelles, 1960, 9.429
+Dave Dee, Dozy, Beaky, Mick & Tich, 1968, 5.393
+Lionel Richie, 1985, 17.069
+The Beach Boys, 1965, 6.65
+Contours, 1962, 9.427
+Jimmy Cliff, 1994, 5.392
+Mr Big, 1992, 17.051
+Chubby Checker, 1961, 6.648
+The Shadows, 1960, 9.426
+Simon & Garfunkel, 1966, 17.033
+City High, 2001, 5.391
+Whitney Houston, 1999, 9.425
+Harry James & Dick Haymes, 1944, 6.647
+Maureen McGovern, 1973, 9.425
+The Rolling Stones, 1967, 5.391
+Harry Nilsson, 1972, 17.013
+U2, 2005, 6.647
+Tex Williams & The Western Caravan, 1947, 9.422
+Spice Girls, 1998, 5.389
+Men At Work, 1982, 16.988
+The Tymes, 1963, 6.641
+Frank Chacksfield, 1953, 9.42
+Britney Spears, 2008, 9.416
+Bread, 1971, 5.389
+Sheryl Crow, 1994, 16.868
+Johnny Mathis & Deniece Williams, 1978, 6.635
+PM Dawn, 1991, 9.414
+Perry Como, 1958, 5.385
+Rednex, 1994, 16.865
+Shakira, 2009, 6.631
+Santana & Michelle Branch, 2002, 9.413
+Usher, 1997, 9.41
+T Rex, 1972, 5.385
+Robert Palmer, 1988, 6.63
+The Rolling Stones, 1968, 16.862
+Nicki French, 1995, 9.409
+John Cougar Mellencamp & Me'Shell Ndegeocello, 1994, 6.629
+The Notorious BIG, P Diddy, Nelly, Jagged Edge & Avery Storm, 2006, 5.384
+UB40, 1983, 16.839
+Bob Sinclar, Goleo VI & Gary 'Nesta' Pine, 2005, 9.407
+Toto, 1983, 9.401
+Dixie Cups, 1964, 6.627
+Helen Forrest & Dick Haymes, 1944, 5.383
+Soft Cell, 1981, 16.784
+The Shangri-Las, 1964, 9.399
+Freddy Fender, 1975, 6.626
+Frankie Valli, 1967, 5.38
+LeAnn Rimes, 2001, 16.765
+Jan & Dean, 1963, 9.396
+Greg Kihn Band, 1983, 6.626
+The Ink Spots, 1946, 9.395
+Shaggy & Ricardo 'RikRok' Ducent, 2001, 16.758
+Madonna, 2001, 5.379
+Boyz II Men, 1995, 6.625
+Freddie Mercury, 1993, 9.376
+Teresa Brewer, 1950, 16.717
+Fats Domino, 1957, 6.624
+My Chemical Romance, 2006, 9.369
+Daughtry, 2007, 5.379
+Dexys Midnight Runners, 1982, 16.688
+Al Jolson, 1922, 6.621
+Ne-Yo, 2008, 9.368
+Kay Kyser, 1942, 5.377
+Bruno Mars, 2010, 16.663
+Jean-Claude Borelly, 1975, 6.62
+Spice Girls, 1998, 9.361
+The Trammps, 1978, 5.375
+Rocco Granata, 1960, 16.659
+Fanny Brice, 1922, 9.359
+10CC, 1977, 6.619
+Teresa Brewer, 1953, 9.353
+Herman's Hermits, 1964, 5.375
+Jennifer Lopez, 1999, 16.642
+Jim Lowe, 1956, 6.615
+Anastacia, 2004, 9.351
+Tina Turner, 1984, 5.375
+David Guetta & Akon, 2009, 16.638
+Sophie B Hawkins, 1992, 6.614
+Michael Jackson, 1988, 9.35
+Vaughn Monroe, 1946, 9.35
+Johnny Burnette, 1960, 5.374
+Britney Spears, 2000, 16.598
+The Ames Brothers, 1954, 6.614
+Oasis, 1996, 9.341
+Van Halen, 1995, 5.371
+Lady GaGa, 2011, 16.597
+Paul Young, 1985, 9.335
+Shai, 1992, 6.608
+Ben Bernie, 1925, 9.333
+Sean Kingston, 2008, 5.371
+N Sync, 2000, 16.476
+Roxette, 1992, 6.606
+Ciara & Missy 'Misdemeanor' Elliot, 2005, 9.332
+Tony Orlando & Dawn, 1973, 5.37
+Donna Summer, 1977, 16.47
+T'Pau, 1987, 6.602
+Atomic Kitten, 2001, 9.331
+Bee Gees, 1975, 9.319
+Tommy James & the Shondells, 1969, 5.369
+Lionel Richie, 1983, 16.446
+The Searchers, 1964, 6.6
+Bon Jovi, 2005, 6.599
+Elton John, 1971, 9.309
+Frankie Goes To Hollywood, 1984, 5.368
+Dido, 2003, 16.446
+Cat Stevens, 1972, 6.596
+Eve Young, 1950, 5.368
+Les Brown & Doris Day, 1945, 16.44
+The Jackson 5, 1970, 6.592
+Cher, 1989, 9.309
+Blood Sweat & Tears, 1969, 6.592
+Bon Jovi, 1986, 5.368
+The Byrds, 1965, 16.42
+Madonna, 1985, 9.309
+Tom Jones, 1965, 6.592
+The Beatles, 1963, 6.589
+Janet Jackson, 1990, 5.366
+Gerry Rafferty, 1978, 16.406
+Survivor, 1986, 9.305
+Bing Crosby, 1950, 6.589
+Daniel Bedingfield, 2003, 5.362
+Jennifer Lopez & Pitbull, 2011, 16.404
+Britney Spears, 1999, 9.303
+Christophe, 1965, 6.589
+Elton John, 1983, 6.587
+Duran Duran, 1993, 5.362
+Elvis Presley, 1957, 16.347
+Rod Stewart, 1991, 9.301
+Roberta Flack & Donny Hathaway, 1978, 6.587
+Europe, 1987, 5.361
+The Beatles, 1965, 16.319
+Bryan Adams, 1991, 9.3
+Johnny Nash, 1968, 6.585
+Cyndi Lauper, 1984, 6.584
+Red Hot Chili Peppers, 2006, 5.359
+Natalie Imbruglia, 1998, 16.312
+Dion, 1961, 9.296
+Bronski Beat, 1984, 6.583
+The Kinks, 1964, 5.358
+REM, 1991, 16.295
+Smokey Robinson & The Miracles, 1960, 6.579
+Freddy Martin, 1946, 9.296
+Electric Light Orchestra, 1977, 6.579
+The Flying Pickets, 1984, 5.356
+Haddaway, 1993, 16.286
+Michael Jackson, 1996, 9.294
+Adele, 2011, 6.573
+The Thompson Twins, 1984, 6.573
+American Quartet, 1917, 5.356
+Scott McKenzie, 1967, 16.28
+Charlene, 1982, 9.292
+Johnny Cash, 1969, 6.572
+The Andrews Sisters, 1945, 16.279
+Terror Squad, 2004, 5.355
+Ray Charles, 1960, 9.287
+The Beatles, 1964, 6.57
+Gwen Stefani, 2006, 9.283
+Aaliyah, 1994, 6.568
+Bee Gees, 1972, 5.354
+U2, 1987, 16.269
+The Moody Blues, 1970, 6.567
+Nelly Furtado, 2001, 9.282
+The B52s, 1990, 5.354
+Roxette, 1991, 16.258
+Pink, 2010, 6.566
+Rosemary Clooney, 1952, 9.281
+Jona Lewie, 1981, 6.565
+Shaggy, 1993, 9.279
+Billy Swan, 1975, 16.254
+Sam Cooke, 1960, 5.353
+Peter, Paul & Mary, 1969, 6.564
+The Beatles, 1964, 9.278
+Cher, 1999, 6.563
+Robert Miles, 1996, 16.253
+Level 42, 1986, 5.353
+Tommy Dorsey & Frank Sinatra, 1943, 9.277
+Cliff Richard, 1960, 6.562
+Avicii, 2013, 5.352
+The Goo Goo Dolls, 1998, 16.252
+Luther Vandross & Janet Jackson, 1992, 6.562
+Justin Timberlake, 2003, 9.264
+Russ Morgan, 1949, 6.559
+The Allisons, 1961, 5.352
+Shaggy, 2001, 16.22
+The Rooftop Singers, 1963, 6.558
+Vanessa Williams, 1995, 9.253
+Manhattan Transfer, 1977, 5.351
+Nelly Furtado, 2007, 16.215
+Limahl, 1984, 6.557
+Black Sabbath, 1970, 9.243
+Cliff Richard, 1962, 6.557
+Otis Redding, 1968, 16.211
+Celine Dion & Bee Gees, 1998, 5.351
+Gary Lewis & The Playboys, 1965, 6.556
+Craig Douglas, 1959, 9.24
+Diddy Dirty Money, 2011, 6.552
+Panjabi MC, 2003, 5.346
+Sam The Sham & The Pharaohs, 1965, 16.177
+Alicia Keys, 2004, 6.551
+Marvin Gaye, 1971, 9.239
+Elvis Presley, 1956, 16.15
+Lordi, 2006, 5.346
+The Communards, 1986, 6.549
+KLF, 1992, 9.234
+Elvis Presley, 1964, 5.345
+Kris Kross, 1992, 16.142
+Anastacia, 2004, 6.548
+Elton John, 1974, 9.231
+Rick Astley, 1991, 5.345
+Abba, 1975, 16.122
+Taylor Dayne, 1988, 6.54
+Des'ree, 1998, 9.225
+Howard Jones, 1985, 5.345
+OutKast, 2001, 16.11
+John Lennon, 1972, 6.54
+DJ Otzi, 2001, 5.345
+Bonnie Tyler, 1978, 16.089
+The Jackson 5, 1970, 9.212
+Glen Campbell, 1977, 6.538
+Sly & The Family Stone, 1970, 5.343
+The Rolling Stones, 1966, 16.055
+Miguel Rios, 1970, 9.194
+The Angels, 1963, 6.535
+Paul Whiteman, 1923, 5.34
+The Everly Brothers, 1960, 16.05
+Lovin' Spoonful, 1966, 6.533
+The Four Seasons, 1962, 9.193
+50 Cent, 2005, 5.337
+Katy Perry & Snoop Dogg, 2010, 16.049
+Brenton Wood, 1967, 6.527
+Dinah Shore, 1944, 9.189
+Kenny Rogers & Sheena Easton, 1983, 5.335
+Maroon 5 & Christina Aguilera, 2011, 16.021
+Taylor Swift, 2009, 6.521
+Nat King Cole, 1946, 9.179
+Lana Del Rey, 2011, 5.335
+Bee Gees, 1979, 15.998
+The Alan Parsons Project, 1982, 6.521
+Edison Lighthouse, 1970, 9.177
+Kim Wilde, 1988, 6.52
+Dick Haymes, 1943, 15.981
+Three Dog Night, 1974, 5.334
+Aerosmith, 1993, 9.176
+Paul Simon, 1972, 6.52
+The Beatles, 1969, 15.971
+Bjork, 1995, 5.334
+Russ Morgan, 1948, 6.517
+Middle of The Road, 1971, 9.175
+t.A.T.u., 2003, 5.332
+The Knack, 1979, 15.964
+Billy Joel, 1983, 6.516
+Lobo, 1973, 15.925
+Bomfunk MCs, 2000, 9.169
+The Imperials, 1958, 5.331
+Fleetwood Mac, 1987, 6.515
+Sash!, 1997, 5.33
+The Black Eyed Peas, 2009, 15.922
+No Doubt, 2003, 9.16
+Wyclef Jean & Akon & Lil' Wayne, 2007, 6.514
+Charlie Daniels Band, 1979, 5.328
+The Monkees, 1967, 15.921
+Mitch Miller, 1955, 9.159
+Average White Band, 1975, 6.513
+Kanye West & Jamie Foxx, 2005, 15.916
+Aerosmith, 1989, 5.327
+Blue Barron & Orchestra, 1949, 6.511
+The Doors, 1969, 9.156
+Led Zeppelin, 1971, 5.327
+John Lennon, 1981, 15.86
+Justin Timberlake, 2013, 6.509
+Mariah Carey, 1991, 9.154
+Prince, 1984, 6.508
+Jefferson Starship, 1987, 15.849
+Offspring, 1995, 5.327
+Evanescence, 2006, 9.148
+Brian McKnight, 1999, 6.507
+Sugar Ray & Supercat, 1997, 5.327
+Phil Collins, 1984, 15.812
+Earth, Wind & Fire, 1979, 9.148
+Bryan Adams, 1985, 6.507
+Sugarloaf, 1970, 5.327
+Scatman John, 1995, 15.8
+Deep Purple, 1973, 9.143
+fun., 2012, 6.506
+Paul Simon, 1976, 9.136
+Holly Valance, 2002, 5.325
+The Black Eyed Peas, 2005, 15.793
+Evelyn 'Champagne' King, 1978, 6.505
+Frijid Pink, 1970, 9.135
+Nena, 1983, 15.791
+Obernkirchen Children's Choir, 1954, 5.325
+Deep Purple, 1970, 6.503
+Wings, 1973, 9.134
+The Jackson 5, 1974, 5.323
+Elvis Presley, 1961, 15.784
+Neil Sedaka, 1975, 6.5
+Rod Stewart, 1977, 9.129
+Faithless, 1998, 5.322
+Gene Autry, 1949, 15.779
+Gary US Bonds, 1961, 6.499
+Sherbet, 1976, 6.498
+Jamelia, 2004, 9.128
+Jackie Wilson, 1967, 5.321
+Oasis, 1996, 15.769
+Barbra Streisand & Barry Gibb, 1980, 6.494
+The Pet Shop Boys, 1988, 9.127
+Robert Palmer, 1980, 5.321
+The Tornados, 1962, 15.768
+OneRepublic, 2010, 6.493
+Andy Kim, 1974, 6.488
+Notorious BIG & P Diddy, 1997, 9.123
+Julian Lennon, 1985, 5.321
+Queen, 1980, 15.762
+Peter Sarstedt, 1969, 6.488
+Bee Gees, 1971, 9.121
+Katy Perry, 2010, 15.76
+Dorothy Moore, 1976, 5.321
+Madonna, 1984, 6.486
+Three Dog Night, 1972, 6.484
+Jerry Murad's Harmonicats, 1947, 9.118
+Evanescence, 2003, 5.32
+Rihanna, 2010, 15.759
+Christina Aguilera, 2003, 6.484
+Thelma Houston, 1977, 9.118
+Paul McCartney & Michael Jackson, 1983, 15.751
+Anne Shelton, 1956, 5.319
+Sophie Ellis-Bextor, 2002, 6.483
+Donna Summer, 1978, 9.116
+The Detroit Spinners, 1976, 5.319
+U2, 1988, 15.738
+Buddy Holly, 1957, 9.112
+Fat Boys & Chubby Checker, 1988, 6.479
+Strawberry Alarm Clock, 1967, 5.318
+Kanye West, 2007, 15.704
+Michael Bolton, 1990, 9.111
+Alicia Bridges, 1978, 6.476
+Wayne Fontana & The Mindbenders, 1965, 5.318
+The Righteous Brothers, 1964, 15.698
+Sting, 1993, 9.111
+Bob Seger & The Silver Bullet Band, 1987, 6.476
+Michael Jackson & Janet Jackson, 1995, 15.697
+Billy Joel, 1989, 9.105
+Eminem, 2005, 6.473
+Wild Cherry, 1976, 9.098
+Elvis Presley, 1962, 15.671
+Madonna, 1995, 9.084
+Wilson Phillips, 1992, 6.471
+Norman Greenbaum, 1970, 15.669
+Eddie Murphy, 1986, 5.317
+Marvin Gaye, 1977, 6.47
+Bill Withers, 1972, 9.08
+Prince, 1994, 15.666
+Don Henley, 1989, 5.316
+Ethel Waters, 1929, 6.47
+Britney Spears, 2011, 9.073
+Cliff Richard, 1980, 5.316
+Nat King Cole, 1951, 15.659
+U2, 1989, 6.469
+Three Dog Night, 1970, 9.07
+Green Jelly, 1993, 5.316
+Boney M, 1977, 15.655
+Color Me Badd, 1991, 6.467
+Whitney Houston, 1991, 9.066
+Eddie Cantor, 1925, 5.314
+Wings, 1977, 15.637
+Billy Ocean, 1985, 6.465
+Mariah Carey, 1991, 9.065
+Offspring, 1999, 15.634
+Hanson, 1997, 5.311
+Gorillaz, 2005, 6.465
+Enrique Iglesias & Pitbull, 2010, 9.062
+Bread, 1972, 5.311
+Madonna, 1984, 15.63
+Michael Jackson, 1981, 6.465
+Lulu, 1967, 9.06
+David A Stewart & Barbara Gaskin, 1981, 6.461
+The Mamas & The Papas, 1966, 15.624
+Warren G & Adina Howard, 1996, 5.308
+Bobbie Gentry, 1967, 9.047
+Leo Reisman, 1934, 6.46
+Breathe, 1988, 5.306
+Buddy Holly, 1957, 15.617
+Jimmy Dorsey, 1941, 9.045
+Craig David, 2000, 6.46
+Blue & Elton John, 2003, 5.305
+Gwen Stefani, 2005, 15.607
+Toni Braxton, 1996, 9.04
+Mariah Carey, 1994, 6.459
+Blur, 1999, 5.305
+The Pet Shop Boys, 1990, 6.454
+Bee Gees, 1969, 9.038
+Destiny's Child, 2004, 15.602
+Gerry & the Pacemakers, 1963, 5.303
+K'Naan, 2010, 6.453
+Prince, 1992, 5.303
+Sisqo, 2000, 9.032
+Madonna, 1995, 15.593
+Bruce Springsteen, 1980, 6.452
+The Killers, 2006, 5.302
+Kim Wilde, 1981, 9.017
+James Brown, 1965, 5.302
+5000 Volts, 1975, 6.451
+Johnnie Ray, 1951, 15.587
+Steely Dan, 1973, 5.3
+Taylor Dayne, 1988, 9.015
+KWS, 1992, 6.447
+Del Shannon, 1961, 15.584
+Smash Mouth, 2001, 5.298
+Whitesnake, 1987, 6.447
+Simon & Garfunkel, 1969, 9.015
+Janet Jackson, 1998, 15.573
+Ottawan, 1981, 5.297
+Hinder, 2006, 6.447
+Vaughn Monroe, 1945, 9.014
+Eddie Fisher, 1956, 5.296
+Paul Anka, 1957, 15.561
+Richard Marx, 1994, 6.445
+Alex Clare, 2012, 5.296
+Four Aces, 1955, 9.012
+Jerry Lee Lewis, 1957, 15.549
+Stephanie Mills, 1980, 6.443
+Chicago, 1972, 5.292
+Guns n' Roses, 1988, 15.548
+Supertramp, 1982, 9.006
+Metallica & Marianne Faithfull, 1997, 5.292
+Cameo, 1986, 6.443
+Tony Christie, 1971, 5.29
+Flo-Rida & Ke$ha, 2009, 15.542
+Keane, 2004, 6.44
+George Michael, 1988, 9.004
+Brothers Johnson, 1980, 5.29
+Elvis Presley, 1959, 15.525
+JoJo, 2006, 6.438
+Oasis, 1997, 8.998
+Gerry & the Pacemakers, 1963, 5.289
+Enrique Iglesias, 1999, 8.997
+10CC, 1975, 15.524
+Snoop Dogg, 1994, 6.438
+The Pointer Sisters, 1980, 5.287
+Wings, 1976, 5.286
+Madonna, 1993, 6.436
+Anita Ward, 1979, 15.509
+MFSB, 1974, 8.979
+Eddy Duchin, 1935, 5.286
+Green Day, 2005, 6.431
+Rod Stewart, 1979, 15.483
+N-Trance & Ricardo Da Force, 1995, 8.978
+S Club 7, 1999, 5.282
+Blind Melon, 1993, 6.43
+Taio Cruz, 2010, 15.464
+Staff Sergeant Barry Sadler, 1966, 8.974
+Nora Bayes, 1921, 5.28
+Jack Johnson, 2006, 6.43
+Jason Mraz, 2008, 15.463
+Samantha Sang, 1978, 8.973
+Right Said Fred, 1992, 5.28
+Gogi Grant, 1956, 6.429
+Mario, 2005, 15.454
+Barbra Streisand & Donna Summer, 1979, 8.972
+Meghan Trainor, 2014, 5.28
+Divinyls, 1991, 6.429
+Avril Lavigne, 2003, 8.972
+Enigma, 1991, 15.434
+Link Wray, 1958, 5.278
+Arthur Conley, 1967, 6.428
+Sonique, 2000, 8.962
+Snap, 1992, 15.425
+Boney M, 1978, 8.96
+The Beastie Boys, 1987, 5.278
+Eminem, 2002, 6.427
+Counting Crows, 1994, 8.956
+M, 1979, 15.418
+Chicory Tip, 1972, 6.426
+Lester Flatt & Earl Scruggs, 1950, 5.276
+The Stylistics, 1974, 8.532
+Alanis Morissette, 1996, 15.413
+David Seville & The Chipmunks, 1958, 6.425
+Harry Richman, 1930, 8.532
+Bee Gees, 1975, 5.276
+Lionel Richie, 1984, 15.404
+Jimi Hendrix, 1967, 6.423
+Level 42, 1986, 8.526
+Johnny Horton, 1959, 15.4
+The Stray Cats, 1982, 5.276
+Middle of The Road, 1972, 8.524
+Curtis Mayfield, 1973, 6.422
+Bon Jovi, 1987, 15.359
+Marvin Hamlisch, 1974, 8.52
+Vikki Carr, 1967, 5.275
+Conny Froboess, 1962, 6.422
+Enrique Iglesias, 2001, 15.357
+Quarterflash, 1982, 8.518
+The Sweet, 1973, 15.353
+Arrested Development, 1992, 5.274
+Roberta Flack, 1974, 6.42
+Anne Murray, 1978, 8.512
+Ke$ha, 2009, 15.351
+Klymaxx, 1986, 5.274
+Cascada, 2006, 8.511
+The Cowsills, 1967, 6.42
+Timbaland & Keri Hilson, 2007, 15.331
+Simply Red, 1991, 5.273
+Jefferson Starship, 1986, 8.51
+Phil Collins, 1981, 15.329
+The Housemartins, 1987, 5.273
+Ruth Etting, 1930, 6.418
+Eddy Grant, 1983, 8.503
+Frank Sinatra, 1946, 15.313
+Hootie & The Blowfish, 1995, 5.273
+The Doors, 1971, 8.502
+Vanessa Carlton, 2002, 15.298
+Madonna, 1990, 6.418
+Vanessa Williams, 1995, 5.273
+Whitney Houston, 1993, 8.501
+Al Jolson, 1920, 15.297
+Oasis, 2005, 5.273
+Ashanti, 2002, 8.5
+Enrique Iglesias & Ludacris, 2011, 6.418
+Al Martino, 1952, 15.292
+Stevie Wonder & The Jackson 5, 1974, 5.272
+Bon Jovi, 1995, 8.499
+Kid Rock, 2008, 15.289
+Benny Goodman, 1936, 5.272
+Eddie Fisher, 1952, 6.418
+Robin S, 1993, 8.497
+Van Halen, 1984, 15.285
+Bobby Helms, 1957, 5.271
+Bill Doggett, 1956, 6.416
+George Michael, 1990, 8.496
+Peter Gabriel, 1986, 15.285
+The Carpenters, 1971, 5.268
+Craig David, 2000, 6.416
+Falco, 1982, 8.495
+Adele, 2011, 15.274
+Jane Child, 1990, 5.267
+Boston, 1976, 8.488
+Toto, 1979, 6.414
+Fifth Dimension, 1969, 15.255
+David Guetta & Nicki Minaj, 2012, 5.267
+Joni James, 1952, 8.484
+Roy Orbison, 1963, 6.411
+Gordon Jenkins & The Weavers, 1950, 15.241
+Floyd Cramer, 1960, 5.266
+The Troggs, 1968, 5.266
+Roxette, 1989, 15.202
+Hamilton, Joe Frank & Reynolds, 1971, 6.411
+Glenn Miller, 1942, 8.477
+Blind Willie Johnson, 1927, 5.264
+F R David, 1982, 15.187
+Avril Lavigne, 2007, 6.411
+Kay Kyser, 1942, 5.264
+Sixpence None The Richer, 1999, 15.161
+Aneka, 1981, 8.476
+Elvis Presley, 1964, 5.262
+Michael Jackson, 1993, 6.408
+Irene Cara, 1980, 15.159
+MC Lyte, 1997, 5.262
+Los Indios Tabajaras, 1963, 8.474
+The Game & 50 Cent, 2005, 6.408
+Tommy James & the Shondells, 1969, 15.147
+Blur, 1997, 5.261
+The Four Seasons, 1964, 8.47
+Patsy Cline, 1961, 6.407
+Ernie K-Doe, 1961, 5.26
+Fine Young Cannibals, 1989, 15.136
+Madonna, 1985, 5.259
+Dion & The Belmonts, 1959, 6.406
+Guns n' Roses, 1991, 8.467
+Led Zeppelin, 1970, 15.106
+KC & The Sunshine Band, 1983, 5.259
+Dave Clark Five, 1964, 6.406
+Michael Jackson, 1979, 15.097
+The Escape Club, 1988, 8.464
+Hot Butter, 1972, 15.066
+Frank Sinatra, 1943, 5.258
+Whitney Houston, 1987, 6.402
+N Sync, 2002, 8.459
+The Bangles, 1989, 15.055
+Shakin' Stevens, 1981, 5.256
+Santana, 2000, 15.047
+The Surfaris, 1963, 8.454
+Cliff Richard & The Young Ones, 1986, 6.399
+Jesus Jones, 1991, 5.256
+Captain & Tennille, 1975, 15.023
+Brothers Four, 1960, 6.397
+The Human League, 1986, 8.448
+Chords, 1954, 5.255
+Billy Ocean, 1988, 14.964
+Michael McDonald, 1986, 5.255
+David Essex, 1973, 6.396
+Perez Prado, 1955, 14.946
+Dionne Warwick, 1982, 8.447
+ZZ Top, 1984, 5.255
+Ini Kamoze, 1995, 14.945
+Elvis Presley, 1970, 6.393
+The Hollies, 1966, 8.445
+David Bowie & The Pat Metheny Group, 1985, 5.253
+The Box Tops, 1967, 14.934
+Lobo, 1971, 6.393
+Toni Braxton, 2000, 8.441
+Lesley Gore, 1964, 5.253
+The Fugees, 1996, 6.392
+Pee Wee Hunt, 1948, 14.914
+Jody Watley, 1987, 6.391
+C&C Music Factory, 1991, 5.253
+Billie Holiday, 1941, 8.439
+Genesis, 1992, 6.39
+Dave Dee, Dozy, Beaky, Mick & Tich, 1966, 5.252
+Kool & The Gang, 1981, 14.896
+Sarah Brightman & Andrea Bocelli, 1997, 8.438
+Crystal Waters, 1994, 6.39
+Mims, 2007, 5.252
+Tom Jones & Art of Noise, 1988, 6.389
+The Platters, 1955, 14.896
+Middle of The Road, 1971, 8.437
+Celine Dion, 1992, 6.389
+Len Barry, 1965, 5.252
+Al Trace, 1948, 8.437
+Paula Cole, 1997, 6.388
+Exile, 1978, 14.886
+The Pointer Sisters, 1979, 8.435
+Pilot, 1975, 6.387
+Ken Griffin, 1948, 5.252
+Natasha Bedingfield, 2005, 8.431
+Chris Brown, 2011, 6.387
+The Kinks, 1970, 14.883
+Art Tatum, 1939, 5.25
+Royal Guardsmen, 1967, 8.43
+Lena Horne, 1942, 6.384
+Gary Glitter, 1972, 8.43
+T'Pau, 1987, 6.381
+Bachman-Turner Overdrive, 1974, 14.876
+Dion, 1968, 5.248
+Hall & Oates, 1977, 6.379
+Abba, 1977, 8.425
+All Saints, 1998, 14.858
+Marvin Gaye & Tammi Terrell, 1967, 5.248
+Duran Duran, 1988, 6.378
+Duran Duran, 1983, 6.377
+Fall Out Boy, 2007, 8.418
+Debbie Reynolds & Carleton Carpenter, 1951, 5.248
+The Four Seasons, 1976, 14.855
+Alanis Morissette, 1996, 6.376
+Rihanna, 2006, 8.414
+Jackie Wilson, 1983, 6.375
+Kanye West, 2004, 5.246
+Tears For Fears, 1985, 14.851
+Roy Orbison, 1989, 6.374
+Alphaville, 1984, 5.246
+Tinie Tempah & Eric Turner, 2011, 8.413
+Al Dexter & his Troopers, 1943, 14.85
+Connie Francis, 1961, 6.373
+Boney M, 1978, 5.246
+Abba, 1978, 6.373
+Sandi Thom, 2006, 8.413
+Snap, 1990, 14.85
+Guy Lombardo, 1934, 5.245
+Paul Whiteman, 1934, 6.373
+Richard Marx, 1989, 14.833
+Chris Norman & Suzi Quatro, 1979, 8.412
+The Cure, 1989, 5.244
+Duke Ellington, 1937, 6.371
+Pat Boone, 1957, 14.828
+Matchbox Twenty, 2003, 5.243
+Madness, 1983, 8.41
+Notorious BIG, 1997, 6.37
+The Rolling Stones, 1971, 14.81
+Francoise Hardy, 1962, 5.242
+Wings, 1973, 8.408
+The Beach Boys, 1963, 6.369
+Akon, 2006, 14.786
+Maroon 5, 2005, 5.241
+Daft Punk & Pharrell Williams, 2013, 8.403
+Johnny Mathis, 1957, 6.368
+Nat King Cole, 1948, 14.779
+One Direction, 2012, 5.241
+Wham!, 1985, 8.402
+Elvis Presley, 1963, 6.367
+Coldplay, 2008, 14.768
+Steve Lawrence, 1963, 5.241
+Desireless, 1987, 6.363
+The Rolling Stones, 1967, 8.4
+Paul & Paula, 1963, 14.733
+Aretha Franklin, 1974, 5.241
+S-Express, 1988, 6.363
+Tony Rich Project, 1996, 8.395
+Kingsmen, 1963, 14.729
+Erasure, 1992, 5.241
+Wings, 1979, 6.362
+The Small Faces, 1967, 8.394
+The Ronettes, 1963, 14.72
+Peter Frampton, 1977, 5.238
+Aerosmith, 1994, 6.362
+The Beach Boys, 1966, 8.392
+The Manhattans, 1976, 14.716
+Peter Andre, 1996, 5.237
+The Carpenters, 1972, 6.361
+Perry Como, 1954, 8.392
+Three Dog Night, 1971, 14.698
+Roxette, 1994, 5.237
+Eddie Calvert, 1953, 8.392
+2Pac, 1999, 8.387
+P Diddy & Mase, 1997, 6.36
+John Parr, 1985, 8.379
+Len, 1999, 6.36
+Frankie Laine, 1951, 8.374
+Lenny Kravitz, 1991, 6.354
+Nelly Furtado, 2006, 8.372
+Ashford & Simpson, 1985, 6.351
+Captain Hollywood Project, 1993, 8.371
+Jamiroquai, 1999, 6.351
+Madonna, 1992, 8.367
+Guy Mitchell, 1951, 6.349
+Jimmy Dean, 1961, 8.367
+The Who, 1967, 6.344
+Mark Morrison, 1996, 8.366
+The Foundations, 1967, 6.343
+Margaret Whiting, 1948, 8.365
+George Harrison, 1973, 6.343
+Kim Wilde, 1982, 8.364
+Ricky Martin, 1999, 6.343
+Creedence Clearwater Revival, 1969, 8.362
+50 Cent, 2003, 6.339
+The Lemon Pipers, 1968, 8.357
+John Waite, 1984, 6.336
+Frank Chacksfield, 1953, 8.352
+Paul Young, 1984, 6.333
+Michael Jackson, 1988, 8.349
+Mario Lanza, 1951, 6.333
+Umberto Tozzi, 1977, 6.333
+Creedence Clearwater Revival, 1969, 8.349
+Guns n' Roses, 1992, 6.331
+The Rolling Stones, 1989, 6.331
+Patti Smith & Don Henley, 1992, 8.347
+Gloria Estefan & Miami Sound Machine, 1988, 6.325
+Suzi Quatro, 1974, 8.342
+Kylie Minogue, 2002, 6.322
+Johnny Mercer & Jo Stafford, 1945, 6.322
+Elvis Presley, 1961, 8.328
+Ace of Base, 1996, 6.321
+Katy Perry, 2012, 8.322
+Fleetwood Mac, 1976, 6.321
+Spike Jones, 1948, 8.321
+Queen, 1974, 6.321
+Isham Jones, 1924, 8.319
+Coldplay, 2000, 6.32
+Shakira & Freshly Ground, 2010, 8.318
+The Vengaboys, 1999, 6.32
+The White Stripes, 2003, 8.315
+Hall & Oates, 1981, 6.313
+Pat Boone, 1957, 8.315
+Buffalo Springfield, 1967, 6.31
+Frankie Laine, 1952, 8.315
+Hank Williams, 1949, 6.309
+The Lighthouse Family, 1998, 8.312
+The Shirelles, 1962, 6.308
+Neneh Cherry, 1989, 8.309
+REM, 2001, 6.307
+The Sweet, 1971, 8.308
+Olivia Newton-John, 1975, 6.306
+Ce Ce Peniston, 1992, 8.307
+Cliff Richard, 1959, 6.304
+Devo, 1980, 6.304
+KC & The Sunshine Band, 1977, 8.307
+Keith Sweat, 1996, 6.303
+The Temptations, 1971, 8.303
+No Doubt, 1996, 6.302
+Space, 1977, 8.295
+SWV, 1993, 6.301
+Tammy Wynette, 1969, 8.293
+Plastic Bertrand, 1978, 6.301
+Suzanne Vega, 1987, 8.29
+Steve Harley & Cockney Rebel, 1975, 6.3
+Lou Reed, 1973, 8.29
+KT Tunstall, 2006, 6.3
+Rick Springfield, 1981, 8.29
+Whitney Houston & Enrique Iglesias, 2000, 6.298
+Johnny Mercer, 1946, 8.288
+Bing Crosby, 1941, 6.296
+The Black Eyed Peas, 2004, 8.286
+Orchestral Manoeuvres In The Dark, 1982, 6.294
+Edith Piaf, 1960, 8.285
+The Fleetwoods, 1959, 6.293
+Count Basie, 1947, 8.284
+The Mindbenders, 1966, 6.293
+Michael Jackson, 1980, 8.282
+Kay Kyser, 1946, 6.292
+Electric Light Orchestra, 1976, 8.28
+Scooter, 2002, 6.288
+The Chemical Brothers, 1999, 5.236
+Olivia Newton-John & Electric Light Orchestra, 1980, 14.679
+Elvis Presley, 1960, 6.284
+The Beatles, 1964, 8.28
+Bon Jovi, 1989, 6.28
+Ray Charles, 1963, 5.236
+Elvis Presley, 1962, 14.678
+Ted Weems, 1947, 8.274
+Elton John, 1994, 6.279
+Johnny Gill, 1990, 5.235
+Marvin Gaye, 1968, 14.667
+The Osmonds, 1972, 6.279
+The Rolling Stones, 1980, 8.272
+The Black Eyed Peas, 2011, 6.275
+Katy Perry, 2009, 5.234
+Red Hot Chili Peppers, 1992, 14.666
+Miami Sound Machine, 1986, 6.273
+Bon Jovi, 1993, 8.271
+Tight Fit, 1982, 5.233
+Elvis Presley, 1969, 14.623
+Sammy Kaye, 1946, 6.27
+Laura Branigan, 1982, 8.269
+Loreen, 2012, 6.27
+98 Degrees, 2000, 5.233
+Perry Como, 1953, 14.582
+Alan O'Day, 1977, 6.27
+No Doubt, 2002, 8.269
+Chuck Berry, 1958, 6.269
+Stevie Wonder, 1970, 5.232
+The Doors, 1967, 14.565
+Green Day, 1998, 6.266
+Queen & David Bowie, 1981, 8.268
+Electric Light Orchestra, 1977, 5.231
+The Beatles, 1969, 14.548
+Paul Robeson, 1928, 6.265
+Kings of Leon, 2009, 8.268
+Debbie Gibson, 1988, 6.265
+The O'Jays, 1974, 5.229
+The Eurythmics, 1983, 14.54
+Coleman Hawkins, 1939, 8.266
+Nickelback, 2006, 6.264
+The Beatles, 1964, 14.537
+Martha Tilton, 1939, 5.228
+Cream, 1968, 8.255
+Dr Hook, 1980, 6.263
+Mary Hopkin, 1969, 6.263
+Billy Vaughn, 1958, 8.254
+T-Pain, 2007, 5.227
+Dean Martin, 1956, 14.534
+The Darkness, 2003, 6.262
+Three Doors Down, 2004, 8.253
+Manfred Mann, 1967, 6.262
+Bruno Mars, 2011, 5.226
+The Drifters, 1960, 14.533
+Gregory Abbott, 1987, 8.251
+Freddy Martin, 1947, 6.261
+Janis Ian, 1975, 5.224
+Neil Young, 1972, 14.51
+Beyonce, 2007, 6.258
+The Pussycat Dolls & Will.I.Am, 2006, 8.251
+Frankie Trumbauer, 1927, 6.257
+Stevie Wonder, 1967, 5.224
+Doris Day, 1948, 8.25
+John Cougar Mellencamp, 1982, 6.256
+The Outhere Brothers, 1995, 8.246
+2Pac, 1996, 5.223
+Bill Hayes, 1955, 6.246
+Mel Torme, 1949, 6.244
+Patti Page, 1950, 8.242
+Creed, 2002, 5.223
+Jennifer Lopez, 2001, 14.506
+Adam Ant, 1982, 6.244
+U2, 1984, 8.242
+Richard Sanderson, 1982, 6.244
+Shannon, 1984, 5.223
+The Scissor Sisters, 2006, 14.483
+Herbie Hancock, 1983, 6.238
+New Kids On The Block, 1989, 8.242
+Bon Jovi, 2002, 5.221
+Jive Bunny & The Mastermixers, 1989, 14.475
+Dean Martin, 1958, 6.237
+Dave Clark Five, 1965, 6.237
+Margaret Whiting & Jimmy Wakely, 1949, 8.241
+Genesis, 1987, 5.221
+Kitty Kallen, 1954, 14.474
+Tina Turner, 1986, 6.234
+Donna Summer, 1989, 5.22
+Madonna, 1987, 14.472
+Bing Crosby, 1932, 8.223
+The Pointer Sisters, 1981, 6.234
+Genesis, 1978, 6.233
+Ray Parker Jr, 1982, 5.215
+Tom Jones, 1971, 14.451
+Tears For Fears, 1989, 8.222
+Britney Spears, 2001, 6.232
+Queen, 1995, 6.229
+RB Greaves, 1969, 5.214
+Extreme, 1991, 14.439
+Elvis Presley, 1961, 8.218
+Elvis Presley, 1962, 6.228
+Nancy Sinatra & Frank Sinatra, 1967, 14.435
+Jason Derulo, 2010, 5.214
+James Brown, 1986, 6.227
+Danyel Gerard, 1971, 8.215
+John Denver, 1974, 6.226
+Right Said Fred, 1991, 14.435
+Mikis Theodorakis, 1965, 5.213
+Don Azpiazu & his Havana Casino Orchestra, 1930, 6.225
+Elvis Presley, 1959, 8.207
+Debelah Morgan, 2000, 5.213
+Vera Lynn, 1952, 14.432
+Guns n' Roses, 1989, 6.22
+Elvis Presley, 1959, 8.203
+The Carter Family, 1928, 6.219
+Michael Jackson, 1980, 5.212
+Creedence Clearwater Revival, 1969, 14.429
+Sting, 1993, 6.217
+The Police, 1981, 8.203
+The Rolling Stones, 1966, 5.212
+U2, 1995, 14.425
+Rod Stewart, 1990, 6.217
+Phil Collins, 1990, 6.217
+Mary MacGregor, 1977, 8.196
+Junior Senior, 2003, 5.212
+Glenn Miller, 1939, 14.42
+PM Dawn, 1993, 6.216
+Joe Cocker, 1975, 6.216
+The Vapors, 1980, 5.212
+Crash Test Dummies, 1994, 14.409
+Johnny Logan, 1980, 8.195
+Young MC, 1989, 6.216
+Gordon Lightfoot, 1971, 5.211
+Creedence Clearwater Revival, 1970, 14.394
+Dale & Grace, 1963, 6.213
+Buzz Clifford, 1961, 8.194
+Peter Frampton, 1976, 6.212
+The Ting Tings, 2008, 5.21
+Rihanna, 2008, 14.39
+JoJo, 2004, 8.191
+Annie Lennox, 1992, 6.21
+Rick Astley, 1987, 5.208
+Elton John, 1997, 14.361
+Jeff Buckley, 2007, 6.207
+Willie Nelson, 1982, 6.205
+Elton John, 1972, 8.189
+Bobby Brown, 1989, 5.207
+Bobby Goldsboro, 1968, 14.34
+Nirvana, 1992, 6.203
+Sean Paul, 2003, 5.207
+Eric Clapton, 1992, 6.203
+Linkin Park, 2003, 8.181
+Eminem, 2004, 14.34
+Prince, 1991, 5.204
+Herb Alpert, 1968, 8.181
+La Bouche, 1994, 6.202
+Murray Head, 1971, 5.203
+Musical Youth, 1982, 14.339
+Justin Timberlake, 2002, 8.174
+The Pet Shop Boys, 1986, 6.2
+Fatboy Slim, 1999, 5.203
+Robbie Williams, 2004, 5.2
+Chicago, 1982, 14.326
+Chesney Hawkes, 1991, 8.174
+James Brown, 1965, 6.199
+Britney Spears, 2000, 5.199
+Joe Cocker & Jennifer Warnes, 1982, 14.311
+Spencer Davis Group, 1967, 8.17
+The Cure, 1992, 6.198
+Shep Fields & his Rippling Rhythm Orchestra, 1939, 5.199
+Surface, 1991, 5.197
+Judy Garland, 1944, 6.189
+The Pet Shop Boys, 1988, 8.169
+Isaac Hayes, 1971, 14.282
+Bobby Rydell, 1960, 5.194
+B J Thomas, 1970, 14.278
+Wang Chung, 1986, 6.184
+Mary J Blige, 2006, 8.167
+Shep Fields & his Rippling Rhythm Orchestra, 1937, 5.193
+Dire Straits, 1985, 5.193
+Pee Wee King, 1952, 8.167
+MC Miker G & DJ Sven, 1986, 6.183
+John Fred & The Playboy Band, 1968, 14.277
+Teresa Brewer, 1951, 5.19
+Anita O'Day, 1951, 5.189
+Al Jolson, 1928, 6.181
+Freddy Martin, 1946, 8.166
+Pitbull, Ne-Yo, Afrojack & Nayer, 2011, 14.27
+Ciara & Ludacris, 2005, 5.188
+Bad English, 1989, 6.18
+A-Ha, 1986, 8.162
+Billy Joel, 1993, 14.258
+Sue Thompson, 1962, 5.188
+Del Shannon, 1965, 5.188
+The Drifters, 1964, 6.18
+Merrilee Rush, 1968, 8.162
+Joan Osborne, 1996, 14.232
+Tony Martin, 1954, 5.187
+Clarence 'Frogman' Henry, 1961, 6.179
+Ella Fitzgerald & The Ink Spots, 1944, 8.161
+Lisa Stansfield, 1990, 14.214
+U2, 1983, 5.184
+Alannah Myles, 1990, 14.211
+The Police, 1983, 6.179
+Gwen Stefani, 2005, 8.154
+Brothers Johnson, 1977, 5.183
+David Rose, 1962, 5.182
+Frank Sinatra, 1969, 6.179
+Emile Ford & The Checkmates, 1959, 8.154
+Beyonce, 2008, 14.21
+Paul McCartney, 1984, 5.182
+Nicki Minaj, 2012, 5.181
+David Guetta, Flo-Rida & Nicki Minaj, 2011, 6.175
+Tag Team, 1993, 8.154
+Trini Lopez, 1963, 14.199
+Archies, 1970, 5.181
+Kenny Rogers, 1977, 8.153
+Judy Garland & Gene Kelly, 1943, 6.173
+4pm, 1995, 5.181
+Roberta Flack, 1972, 14.173
+Starsound, 1981, 5.18
+Janet Jackson, 1989, 6.171
+Diana Ross, 1976, 8.151
+Crazy Frog, 2005, 14.161
+Teach-In, 1975, 5.18
+Alvin Stardust, 1974, 6.17
+Geri Halliwell, 2001, 8.149
+Sailor, 1976, 5.18
+Elvis Presley, 1963, 14.158
+Martika, 1991, 6.169
+Third Eye Blind, 1997, 8.148
+The Beatles, 1968, 14.152
+Whistling Jack Smith, 1967, 5.18
+Elvis Presley, 1970, 6.166
+Diana Ross & The Supremes, 1968, 8.143
+Dire Straits, 1985, 14.152
+Hoagy Carmichael, 1951, 5.18
+Eminem, 1999, 6.166
+Sammy Kaye, 1950, 8.136
+Francis Craig, 1947, 14.148
+Queen, 1991, 5.179
+Wham!, 1986, 8.136
+The Backstreet Boys, 2001, 6.163
+Elvis Presley, 1962, 14.123
+Roger Williams, 1955, 5.177
+One Direction, 2012, 8.135
+Eddie Fisher, 1952, 6.155
+Frankie Avalon, 1959, 14.123
+Boris Gardiner, 1986, 5.176
+Alphaville, 1984, 8.132
+Styx, 1981, 6.152
+The Commodores, 1978, 14.117
+Glenn Miller, 1941, 14.11
+The B52s, 1994, 5.176
+Ne-Yo, 2006, 6.151
+Maroon 5, 2012, 8.126
+Mariah Carey, 1990, 14.106
+REM, 1992, 6.149
+Fine Young Cannibals, 1989, 8.124
+Tony Orlando & Dawn, 1971, 14.103
+Bob Azzam, 1960, 5.172
+Amii Stewart, 1979, 14.081
+TLC, 1995, 6.148
+Wheatus, 2001, 8.124
+Donna Summer, 1982, 5.171
+Les Paul & Mary Ford, 1951, 14.081
+Percy Faith, 1953, 14.057
+Eagles, 1975, 8.119
+The Commodores, 1977, 6.147
+Taylor Swift, 2008, 5.169
+Abba, 1980, 14.052
+Julio Iglesias & Willie Nelson, 1984, 6.147
+Bing Crosby & Carmen Cavallaro, 1945, 8.116
+Billy Ward & The Dominoes, 1951, 5.168
+The Carpenters, 1970, 14.029
+Frida, 1982, 8.115
+The Weavers, 1951, 6.144
+Frankie Valli, 1978, 13.997
+Tony! Toni! Tone!, 1993, 5.167
+Rihanna, 2006, 13.991
+Johnnie Ray, 1951, 6.14
+Herman's Hermits, 1965, 8.114
+Chris de Burgh, 1986, 13.982
+Bob Dylan, 1965, 5.166
+The Pussycat Dolls, 2008, 6.139
+Cream, 1968, 8.108
+The Beatles, 1967, 13.968
+Tiffany, 1988, 13.961
+Wilson Phillips, 1990, 8.105
+Tommy Roe, 1966, 6.137
+Peaches & Herb, 1979, 5.165
+Duffy, 2008, 13.955
+Timmy Thomas, 1973, 8.105
+Akon, 2008, 6.136
+Rod Stewart, 1976, 13.929
+The Supremes, 1965, 5.163
+R Kelly, 2003, 13.919
+America, 1975, 6.134
+Woody Guthrie, 1944, 8.103
+Los Lonely Boys, 2004, 5.163
+Elton John, 1973, 13.889
+REM, 1993, 6.133
+The Floaters, 1977, 8.102
+Honey Cone, 1971, 5.163
+Christina Aguilera, 2006, 13.884
+Jean Knight, 1971, 6.127
+Prince, 1991, 8.099
+Ides of March, 1970, 5.162
+Hot Chocolate, 1974, 5.159
+D12, 2004, 13.873
+Helen Shapiro, 1961, 6.127
+Harold Faltermeyer, 1985, 8.097
+Gareth Gates, 2003, 5.157
+Barbra Streisand, 1974, 13.862
+The Commodores, 1985, 6.125
+Bruce Springsteen, 1975, 8.096
+Atomic Kitten, 2001, 5.155
+Robin Thicke, T.I. & Pharrell Williams, 2013, 13.861
+Electric Light Orchestra, 1981, 8.096
+Stevie Wonder, 1982, 5.155
+The Sweet, 1975, 13.86
+Louis Armstrong, 1956, 6.125
+Elton John, 1995, 8.094
+Steve Winwood, 1981, 5.155
+C&C Music Factory, 1991, 13.852
+The Eurythmics, 1985, 6.121
+Lady GaGa, 2010, 8.093
+Slade, 1972, 5.154
+Michael Jackson, 1984, 13.844
+Gene Austin, 1927, 8.093
+Fifth Dimension, 1967, 6.12
+Rickie Lee Jones, 1979, 5.154
+Rihanna, 2008, 13.843
+John Denver, 1974, 8.09
+Rudy Vallee & his Connecticut Yankees, 1932, 6.119
+Lale Andersen, 1944, 5.153
+Ray Parker Jr, 1984, 13.827
+Bill Monroe, 1947, 5.151
+Westlife, 2001, 6.118
+Limp Bizkit, 2004, 8.087
+Enigma, 1994, 13.814
+Elton John, 1983, 5.151
+Racey, 1979, 6.118
+Penny McLean, 1976, 8.086
+Bob Dylan, 1965, 13.788
+David Guetta & Chris Willis, 2010, 5.15
+The Chiffons, 1963, 8.082
+The Rolling Stones, 1983, 6.117
+Uncle Kracker, 2001, 13.781
+Chauncy Olcott, 1913, 5.15
+Michael Andrews & Gary Jules, 2004, 6.117
+Christina Aguilera & Redman, 2002, 8.082
+Gwen Stefani & Akon, 2007, 13.77
+Shep & the Limelites, 1961, 5.15
+Bee Gees, 1968, 8.082
+Shakira, 2002, 6.116
+The Rolling Stones, 1978, 13.76
+Aretha Franklin, 1968, 5.15
+First Class, 1974, 5.149
+The Platters, 1956, 13.752
+Sade, 1992, 6.115
+Janet Jackson, 1991, 8.075
+Red Hot Chili Peppers, 2000, 5.148
+Donovan, 1966, 8.074
+Marcy Playground, 1998, 6.114
+Champs, 1958, 13.733
+Bob Dylan, 1969, 5.148
+George Michael, 1988, 6.113
+Frankie Laine, 1947, 8.07
+Wings, 1976, 13.695
+Jamiroquai, 2001, 5.147
+Plain White T's, 2007, 13.687
+Freddy Martin, 1941, 6.113
+Blur, 1995, 8.065
+Elton John, 1974, 5.147
+George Michael, 1996, 13.664
+Taylor Swift, 2012, 8.064
+Bee Gees, 1997, 6.111
+Dr Hook, 1976, 5.145
+INXS, 1988, 13.662
+The Go Gos, 1982, 6.108
+Hugo Montenegro, 1968, 8.064
+Karyn White, 1991, 5.145
+Amy Winehouse, 2007, 13.659
+Queen, 1992, 5.144
+Louis Armstrong, 1932, 6.107
+Gloria Estefan, 1991, 8.064
+Mariah Carey, 1993, 13.646
+Jennifer Lopez, 2007, 5.143
+Gorillaz, 2001, 6.106
+Ocean, 1971, 8.058
+Kate Bush, 1978, 13.643
+Vaughn Monroe, 1943, 5.142
+The Commodores, 1981, 6.103
+Beyonce, 2009, 8.058
+The Four Tops, 1966, 13.629
+Kylie Minogue, 2002, 5.142
+Kelly Rowland, 2003, 6.1
+Gladys Knight & The Pips, 1973, 8.051
+Babylon Zoo, 1996, 13.598
+The Carter Family, 1935, 5.142
+John Denver, 1975, 6.099
+Chicago, 1989, 8.051
+Prince, 1987, 5.141
+New Vaudeville Band, 1966, 13.597
+Gwen Stefani, 2005, 6.099
+Olivia Newton-John, 1974, 8.05
+Jive Bunny & The Mastermixers, 1989, 5.141
+Stevie Wonder, 1973, 13.596
+Duke Ellington, 1931, 5.139
+Kim Wilde, 1981, 6.096
+Salt-N-Pepa & En Vogue, 1994, 8.048
+Lauryn Hill, 1998, 13.593
+Pink, 2003, 5.137
+Herb Alpert, 1979, 6.096
+Taylor Swift, 2009, 8.042
+Eminem, 2000, 13.591
+Dire Straits, 1982, 5.136
+Cher, 1973, 6.092
+Al Jolson, 1924, 8.039
+Madonna, 1990, 13.586
+The Staple Singers, 1971, 5.135
+The Commodores, 1979, 6.089
+The Police, 1979, 8.037
+The B52s, 1989, 13.585
+Of Monsters And Men, 2012, 5.134
+David Bowie, 1986, 6.089
+Cher, 1966, 8.036
+Elton John, 1994, 13.56
+The Prodigy, 1997, 5.134
+Al Green, 1972, 13.542
+Hootie & The Blowfish, 1996, 6.083
+Ricky Martin & Christina Aguilera, 2001, 8.036
+Miriam Makeba, 1967, 5.132
+Diana King, 1995, 13.513
+The Isley Brothers, 1962, 6.082
+Britney Spears, 2009, 8.034
+Dinah Shore, 1945, 5.129
+Jennifer Paige, 1998, 13.492
+The McCoys, 1965, 8.034
+Lieutenant Pigeon, 1972, 6.081
+Dionne Warwick, 1979, 5.128
+Prince, 1989, 13.487
+R Kelly, 1999, 8.032
+Destiny's Child, 2000, 6.081
+SOS Band, 1980, 5.126
+Kaoma, 1989, 13.481
+Ivo Robic, 1959, 6.081
+Jimmy Jones, 1960, 8.029
+Stevie Wonder, 1968, 5.126
+The Beatles, 1969, 13.48
+War, 1973, 6.079
+Rod Stewart, 1981, 8.023
+Pat Boone, 1961, 5.126
+Patti LaBelle, 1975, 13.475
+Reel 2 Real, 1994, 6.076
+Christopher Cross, 1980, 8.018
+The Everly Brothers, 1958, 13.464
+Belinda Carlisle, 1989, 5.125
+Eve & Alicia Keys, 2002, 6.076
+Benny Goodman, 1942, 8.016
+Baccara, 1977, 13.461
+Robbie Williams & Nicole Kidman, 2001, 8.015
+Cher, 1974, 6.075
+Merry Macs, 1944, 5.122
+Boney M, 1976, 13.459
+Robyn, 1997, 6.073
+10CC, 1978, 8.014
+Beyonce, 2004, 5.122
+U2, 1997, 13.438
+P Diddy & Jimmy Page, 1998, 8.014
+Phil Collins, 1993, 6.072
+Shania Twain, 1998, 13.437
+Erasure, 1987, 5.121
+Billy Joel, 1980, 6.07
+Neil Diamond, 1971, 8.01
+George Michael & Elton John, 1992, 13.43
+Blondie, 1978, 5.119
+George Harrison, 1981, 8.006
+Freddy Fender, 1975, 6.064
+Britney Spears, 2008, 13.413
+Journey, 1982, 5.118
+The Kalin Twins, 1958, 13.412
+Hoagy Carmichael, 1927, 7.999
+Billy Idol, 1984, 6.064
+Madonna, 1992, 13.41
+Johnny Cash, 2003, 5.118
+Aretha Franklin, 1967, 6.063
+The Black Eyed Peas, 2005, 7.998
+Little Eva, 1962, 13.406
+Sheryl Crow, 1998, 6.062
+Elvis Presley, 1958, 7.998
+Mariah Carey, 2002, 5.117
+O-Zone, 2004, 13.406
+Whigfield, 1994, 7.997
+Badfinger, 1970, 6.059
+Jay Sean, 2010, 5.116
+Rosemary Clooney, 1954, 13.395
+Tone Loc, 1989, 7.992
+Isham Jones, 1923, 6.058
+U2, 2004, 13.388
+Redbone, 1971, 5.114
+Montell Jordan, 1995, 7.984
+Ray Anthony, 1953, 6.057
+Pras Michel, 1998, 13.356
+Modern Talking, 1986, 5.112
+Bellamy Brothers, 1976, 13.348
+Pat Benatar, 1983, 7.984
+U2, 2007, 6.057
+Andy Gibb, 1978, 13.348
+Phil Collins, 1990, 7.979
+Kylie Minogue & Jason Donovan, 1989, 6.055
+3OH!3, 2009, 5.112
+Katy Perry, 2010, 13.347
+Chris Andrews, 1966, 7.979
+Elvis Presley, 1958, 6.051
+Britney Spears & Madonna, 2003, 13.34
+The Backstreet Boys, 1996, 5.111
+Atlantic Starr, 1987, 7.978
+Eileen Barton, 1950, 6.051
+Destiny's Child, 2001, 13.339
+Al Jolson, 1918, 5.11
+Jim Diamond, 1985, 6.051
+Bob Moore, 1961, 7.972
+Europe, 1986, 13.312
+Eddy Howard, 1951, 6.048
+Madonna, 2000, 13.298
+Atomic Kitten, 2002, 7.972
+The Bay City Rollers, 1976, 5.109
+Chris Montez, 1962, 13.294
+George Michael, 1988, 6.048
+Corona, 1994, 7.953
+Chairman of The Board, 1970, 5.108
+Shakira, 2002, 13.291
+Sean Paul, 2005, 7.949
+Joan Weber, 1955, 6.047
+Rod Stewart, 1981, 5.108
+Spice Girls, 1997, 13.264
+Eric Carmen, 1976, 7.942
+Nelson, 1990, 6.045
+Tom Petty & The Heartbreakers, 1980, 5.108
+Joe Dolce, 1981, 13.248
+Culture Club, 1983, 6.044
+Frank Sinatra, 1955, 7.937
+Donna Summer, 1980, 5.107
+John Denver, 1971, 5.107
+Madonna, 1985, 13.231
+Wings, 1971, 6.043
+Silk, 1993, 7.937
+Moby, 2005, 5.104
+The Carpenters, 1975, 13.22
+Frankie Carle, 1946, 6.042
+Maxine Nightingale, 1976, 7.935
+Alizee, 2001, 5.104
+Will Smith, 1999, 13.204
+Rihanna, 2012, 5.103
+Creedence Clearwater Revival, 1969, 6.041
+Engelbert Humperdinck, 1968, 7.933
+Madonna, 1987, 13.182
+Al Green, 1972, 5.103
+Tony Christie, 1971, 6.041
+The Easybeats, 1967, 7.93
+Prince, 1986, 13.18
+Boney M, 1979, 5.103
+The Young Rascals, 1966, 6.038
+Deniece Williams, 1984, 7.925
+Janet Jackson, 2001, 13.171
+Francis Lai, 1971, 5.102
+Freddie & The Dreamers, 1965, 6.034
+Bobby 'Boris' Pickett & The Crypt-Kickers, 1962, 7.924
+Tommy Roe, 1969, 13.165
+Slade, 1984, 5.099
+Alice Cooper, 1989, 6.033
+Red Hot Chili Peppers, 2006, 13.155
+Procol Harum, 1967, 5.098
+Avril Lavigne, 2004, 6.032
+Kylie Minogue, 1988, 13.155
+Christina Perri, 2011, 5.097
+Coolio, 1994, 6.03
+Depeche Mode, 1990, 13.151
+Nick Cave & The Bad Seeds & Kylie Minogue, 1995, 5.096
+Vanessa Williams, 1992, 13.142
+Joe Cocker, 1968, 7.921
+Billy Vaughn, 1961, 6.03
+Glenn Miller, 1940, 5.095
+George Baker Selection, 1975, 13.137
+Jewel Akens, 1965, 6.03
+Andrea True Connection, 1976, 7.914
+Mel & Kim, 1986, 5.095
+Jennifer Lopez, 2005, 13.13
+US3, 1993, 7.909
+Simon & Garfunkel, 1966, 6.029
+Adina Howard, 1995, 5.095
+Gilbert O'Sullivan, 1973, 13.124
+Eminem, 2006, 7.907
+Arthur Gibbs & his Gang, 1924, 6.029
+Atlantic Starr, 1986, 5.093
+Bon Jovi, 2000, 13.124
+Meat Loaf, 1995, 6.029
+The Beatles, 1964, 7.907
+Akon, 2007, 13.109
+Joe Tex, 1972, 5.091
+Perry Como, 1958, 7.902
+Joey Scarbury, 1981, 6.027
+Tony Bennett, 1954, 13.108
+Redbone, 1974, 5.09
+The Kaiser Chiefs, 2007, 6.027
+Original Dixieland Jazz Band, 1918, 7.897
+Elton John, 1985, 13.097
+3OH!3 & Ke$ha, 2010, 5.089
+The Teddy Bears, 1958, 6.025
+Baby Bash, 2004, 7.892
+Tom Jones, 1968, 13.097
+Mariah Carey & Westlife, 2000, 5.087
+Dreamweavers, 1956, 6.024
+Cliff Richard, 1963, 7.887
+Run DMC & Jason Nevins, 1998, 13.09
+Twista, 2004, 5.087
+John Lennon, 1970, 13.085
+Frank Mills, 1979, 6.023
+Sylvers, 1976, 7.882
+Glenn Miller, 1942, 13.073
+Dick Haymes, 1945, 5.086
+The Temptations, 1969, 6.021
+Franz Ferdinand, 2004, 7.881
+The Scorpions, 1991, 13.07
+Mason Williams, 1968, 5.085
+Belinda Carlisle, 1988, 13.054
+Daft Punk, 2000, 7.88
+Fountains of Wayne, 2003, 6.021
+Neil Diamond, 1970, 13.049
+Steve Perry, 1984, 5.085
+Joan Baez, 1971, 6.02
+Adam Clayton & Larry Mullen, 1996, 7.879
+Daniel Boone, 1972, 13.04
+Perry Como, 1946, 5.083
+Edwin Hawkins Singers, 1969, 13.038
+Randy Vanwarmer, 1979, 6.018
+Samantha Mumba, 2000, 7.877
+Spice Girls, 1996, 13.037
+Joe Thomas, 2000, 5.082
+Kenny Loggins, 1984, 13.033
+Underworld, 1996, 7.875
+Manfred Mann, 1966, 6.018
+Murray Head, 1985, 13.031
+Ted Lewis & his Orchestra, 1920, 5.082
+Eddie Cochran, 1958, 7.875
+Brownstone, 1995, 6.018
+Carole King, 1971, 13.029
+Huey Lewis & The News, 1985, 13.01
+Slim Whitman, 1955, 6.017
+Flo-Rida & Sia, 2012, 7.874
+The Marbles, 1969, 5.081
+Paula Abdul & The Wild Pair, 1990, 12.993
+Neil Diamond, 1969, 6.017
+Robin Beck, 1988, 7.873
+Debbie Boone, 1977, 12.989
+The Four Tops, 1967, 5.078
+Steve Miller Band, 1974, 12.979
+New Kids On The Block, 1989, 6.016
+Nelly, P Diddy & Murphy Lee, 2003, 7.869
+50 Cent & Olivia, 2005, 12.977
+Jessica Simpson, 2001, 5.078
+Janet Jackson, 2001, 6.015
+The Flamingos, 1959, 7.868
+Bruce Springsteen, 1984, 12.974
+Billy Ocean, 1986, 12.955
+Fergie & Ludacris, 2007, 6.015
+Elton John, 1980, 7.867
+Frankee, 2004, 5.078
+Conway Twitty, 1958, 12.947
+Whitney Houston, 1986, 7.863
+Mud, 1974, 6.014
+Paul Hardcastle, 1985, 12.941
+Roy Orbison, 1960, 12.934
+Jonas Brothers, 2008, 5.078
+Charlie Rich, 1973, 6.013
+Ricky Nelson, 1961, 7.863
+The Black Eyed Peas, 2010, 12.93
+Far East Movement, 2010, 7.859
+U2, 2001, 6.012
+Queen, 1977, 12.925
+Fess Parker, 1955, 5.077
+Coldplay, 2005, 12.924
+Eagles, 1977, 7.849
+The Temptations, 1970, 6.012
+Barry Ryan, 1968, 12.909
+Jim Croce, 1973, 5.077
+The Bay City Rollers, 1975, 6.011
+Nat King Cole, 1962, 7.844
+Heart, 1990, 12.903
+Harry Belafonte, 1957, 12.898
+Albert Hammond, 1973, 6.011
+Prince, 1983, 7.842
+Radiohead, 2003, 5.077
+Aretha Franklin, 1967, 12.896
+DJ Sammy & Yanou, 2002, 7.84
+Miley Cyrus, 2009, 6.01
+The Rolling Stones, 1966, 5.077
+The Backstreet Boys, 1997, 12.893
+Miley Cyrus, 2013, 7.837
+Frank Sinatra, 1980, 6.01
+Paul Anka, 1959, 12.893
+Train, 2012, 5.074
+Vangelis, 1995, 6.01
+Heavy D & The Boyz, 1991, 7.836
+Duran Duran, 1985, 12.891
+Mr Acker Bilk, 1962, 12.886
+Donovan, 1968, 7.835
+Jimmy Dorsey, 1940, 6.01
+AC/DC, 1980, 5.073
+The Fray, 2007, 12.883
+Ofra Haza, 1988, 6.009
+Huey Lewis & The News, 1986, 7.831
+Kelly Clarkson, 2003, 5.072
+Eric Clapton, 1996, 12.882
+Eddie Hodges, 1961, 6.006
+Shakira, 2005, 7.83
+Mac Davis, 1972, 5.072
+Brotherhood of Man, 1976, 12.868
+Happenings, 1966, 6.006
+Yvonne Elliman, 1978, 7.83
+Oasis, 1997, 5.072
+Mitch Miller, 1958, 6.005
+Mariah Carey, 2008, 7.828
+Bobby Vinton, 1964, 5.07
+Lloyd Price, 1959, 12.868
+Mahalia Jackson, 1948, 5.999
+Salt-N-Pepa, 1991, 7.827
+Essex, 1963, 5.07
+Artie Shaw, 1938, 12.866
+Elton John, 1990, 7.821
+Smokie, 1977, 5.999
+Justin Bieber, 2009, 5.069
+The Whispers, 1980, 5.067
+John Travolta & Olivia Newton-John, 1991, 5.996
+Cheap Trick, 1988, 7.818
+Billy Joel, 1983, 12.846
+Diana Ross, 1970, 5.066
+Richard Harris, 1968, 7.817
+Monica, 1998, 5.992
+The Police, 1979, 5.066
+Gilbert O'Sullivan, 1972, 12.843
+D:Ream, 2001, 5.991
+Dinah Shore, 1950, 7.817
+Ohio Express, 1968, 5.066
+Dr Dre & Snoop Dogg, 1993, 5.065
+Franz Ferdinand, 2005, 5.99
+Les Baxter & his Orchestra, 1955, 7.816
+Mika, 2007, 12.841
+Prince, 1988, 5.065
+Nina Sky, 2004, 7.816
+Lily Allen, 2006, 5.989
+Michael Jackson, 1971, 5.063
+Leo Sayer, 1977, 12.837
+Jade, 1993, 5.063
+Mariah Carey, 2006, 7.815
+Soul II Soul, 1990, 5.986
+Cliff Richard, 1979, 12.834
+Alicia Keys, 2005, 5.062
+Patti Austin & James Ingram, 1983, 5.982
+Brandy, 1999, 7.807
+Phil Collins, 2002, 5.061
+The Marcels, 1961, 12.828
+Debbie Gibson, 1989, 7.807
+The Cure, 1989, 5.979
+U2, 1992, 12.827
+Pink, 2003, 5.06
+Rosemary Clooney, 1951, 7.806
+Monica, 1999, 5.979
+Art Mooney, 1948, 12.817
+Bill Haley & his Comets, 1956, 5.977
+The Doors, 1968, 7.803
+Brothers Johnson, 1976, 5.058
+Madonna, 1986, 12.814
+Glenn Miller, 1940, 7.802
+Three Doors Down, 2000, 5.975
+John Travolta & Olivia Newton-John, 1978, 12.809
+Ray Conniff, 1966, 5.058
+The Moody Blues, 1968, 12.807
+The Fray, 2006, 7.8
+DJ Jazzy Jeff & The Fresh Prince, 1991, 5.975
+The Everly Brothers, 1958, 12.797
+Prince, 1983, 5.056
+Usher, 2004, 5.972
+Tasmin Archer, 1992, 7.799
+Justin Timberlake, 2006, 12.793
+LeAnn Rimes, 1998, 12.788
+Lionel Richie, 1984, 5.055
+Melanie, 1970, 5.971
+Tracy Chapman, 1996, 7.799
+Ricky Nelson, 1961, 12.77
+The Four Tops, 1965, 5.054
+INXS, 1988, 5.97
+Billy Paul, 1973, 7.794
+Mariah Carey & Whitney Houston, 1998, 12.76
+The Beatles, 1966, 12.759
+Janet Jackson, 1986, 5.969
+Bob Marley, 1975, 7.794
+David Bowie, 1983, 5.052
+Soul Asylum, 1993, 12.755
+The Righteous Brothers, 1966, 5.968
+The Bay City Rollers, 1976, 7.794
+DJ BoBo, 2003, 5.051
+Santa Esmerelda, 1977, 12.754
+Kylie Minogue, 1988, 12.741
+Norah Jones, 2004, 5.045
+Christina Aguilera, 2007, 5.967
+Ritchie Valens, 1958, 7.79
+Jennifer Lopez, 2002, 12.718
+Pink, 2012, 5.044
+The Police, 1979, 7.79
+TLC, 1992, 5.965
+Beyonce, 2009, 12.715
+Men At Work, 1983, 5.043
+Guy Mitchell, 1956, 12.709
+Marmalade, 1970, 5.963
+Duran Duran, 1982, 7.79
+The Verve, 1997, 12.708
+Flo-Rida, 2012, 5.043
+Glen Campbell, 1968, 5.963
+Elton John, 1975, 7.79
+Psy, 2012, 12.689
+P Diddy, 1997, 5.041
+Scatman John, 1995, 7.785
+Rihanna, 2007, 5.961
+Richard Marx, 1989, 5.041
+The Temptations, 1965, 12.688
+Frankie Carle, 1946, 7.783
+Lady GaGa, 2011, 5.961
+Christina Aguilera, 2000, 5.041
+Bananarama, 1986, 12.677
+Ke$ha, 2011, 5.961
+Billy Ocean, 1984, 7.782
+Barry Manilow, 1978, 5.041
+The Rubettes, 1974, 12.676
+George Olsen, 1926, 5.04
+Bread, 1970, 5.958
+Donna Summer, 1983, 7.771
+Paul Revere & the Raiders, 1971, 5.039
+Lady GaGa & Beyonce, 2010, 12.667
+Frank Ifield, 1962, 5.957
+The Tokens, 1961, 7.771
+N Sync, 1997, 5.039
+Artie Shaw, 1940, 12.661
+Dave Clark Five, 1964, 7.765
+Harry James, 1941, 5.956
+Travie McCoy & Bruno Mars, 2010, 5.038
+Anita Baker, 1988, 5.036
+Lil' Wayne, 2008, 7.765
+The Sweet, 1972, 5.956
+Jimmy Dorsey, 1942, 12.653
+Gene Chandler, 1962, 7.764
+Barbra Streisand, 1964, 5.954
+Kylie Minogue, 2004, 5.035
+Big Mountain, 1994, 12.643
+Bob Dylan, 1976, 5.034
+Frank Sinatra, 1954, 7.763
+Edwyn Collins, 1995, 5.952
+Lifehouse, 2001, 12.643
+The Cure, 1987, 5.033
+Neil Diamond, 1974, 5.952
+Smash Mouth, 1999, 7.762
+Emilia, 1998, 12.64
+Cliff Richard, 1963, 5.946
+Faith Hill, 2000, 7.754
+Todd Rundgren, 1972, 5.032
+The Backstreet Boys, 2000, 12.633
+Johnny Cash, 1956, 5.946
+Roy Orbison, 1964, 7.751
+Van & Schenck, 1921, 5.031
+The Beach Boys, 1988, 12.628
+Pat Boone, 1956, 5.945
+Usher, 2001, 7.751
+Duke Ellington, 1930, 5.03
+Glenn Miller, 1942, 12.613
+Carol Douglas, 1975, 5.945
+David Dundas, 1976, 7.747
+Justin Timberlake, 2007, 12.607
+Tracey Ullman, 1983, 5.03
+Cathy Dennis, 1991, 5.945
+Bill Haley & his Comets, 1954, 7.746
+Perez Prado, 1958, 12.603
+Whitney Houston, 1997, 5.944
+Foreigner, 1981, 7.741
+Benny Goodman, 1936, 5.029
+The Killers, 2004, 5.943
+Bobby Brown, 1988, 7.733
+Eumir Deodato, 1973, 5.028
+Percy Sledge, 1966, 12.59
+Johnny Mathis, 1957, 5.94
+The Detroit Spinners, 1980, 7.733
+Chuck Berry, 1958, 12.582
+John Lennon, 1971, 5.028
+Travis, 2001, 5.938
+Faithless, 1996, 7.73
+Donna Summer, 1976, 12.581
+Bix Beiderbecke, 1927, 5.026
+Snoop Dogg & Pharrell Williams, 2004, 12.565
+Natalie Cole, 1988, 5.935
+Guns n' Roses, 1989, 7.73
+Destiny's Child, 2000, 12.559
+REM, 1994, 5.935
+Abba, 1981, 7.726
+Paper Lace, 1974, 5.026
+Ringo Starr, 1973, 12.557
+Sheryl Crow, 1995, 7.726
+Bill Conti, 1977, 5.934
+Melanie C, 2000, 5.025
+The Beatles, 1965, 12.545
+Enrique Iglesias, 2002, 5.933
+Bill Withers, 1971, 7.726
+Maroon 5, 2004, 12.545
+Dusty Springfield, 1966, 5.025
+2 Unlimited, 1993, 5.933
+The Crystals, 1963, 7.723
+Glen Campbell, 1975, 12.524
+Amerie, 2005, 7.722
+The Korgis, 1980, 5.931
+Take That, 1993, 5.023
+Sandie Shaw, 1967, 12.519
+Pat Boone, 1957, 5.929
+Shania Twain, 1999, 7.721
+Connie Francis, 1959, 5.02
+Eddy Howard, 1946, 7.712
+Fleetwood Mac, 1969, 5.928
+Creedence Clearwater Revival, 1969, 12.516
+Hall & Oates, 1981, 7.708
+Duane Eddy, 1960, 5.925
+Slade, 1973, 5.02
+Phil Collins, 1988, 12.503
+Jose Feliciano, 1968, 5.924
+The Seekers, 1965, 7.705
+Kiss, 1979, 12.503
+Tom Jones, 1969, 5.018
+Aerosmith, 2001, 7.701
+A Flock of Seagulls, 1982, 5.923
+Christie, 1970, 12.499
+Eminem, 2005, 5.017
+Harold Melvin & The Bluenotes, 1972, 5.922
+Tom Cochrane, 1992, 7.7
+Macy Gray, 2000, 12.499
+David Guetta & Sia, 2012, 5.017
+The Doobie Brothers, 1972, 5.922
+Five for Fighting, 2002, 7.699
+Louis Armstrong, 1964, 12.491
+The Mixtures, 1971, 5.016
+Janet Jackson, 1986, 5.922
+Elton John, 1974, 7.694
+Percy Faith, 1952, 12.484
+Rihanna, 2011, 7.694
+Juice Newton, 1981, 5.921
+The Dixie Chicks, 2006, 5.015
+Steppenwolf, 1968, 7.688
+Ashanti, 2003, 5.921
+Bing Crosby, 1936, 12.477
+Edward Bear, 1973, 5.015
+Don Henley, 1982, 5.92
+Gabrielle, 1993, 7.687
+Raydio, 1978, 5.014
+Sheena Easton, 1981, 12.459
+Elvin Bishop, 1976, 5.013
+The Corrs, 2000, 7.684
+Frank Ifield, 1962, 5.92
+The Stylistics, 1975, 5.011
+Jennifer Lopez, 2001, 5.919
+Green Day, 2005, 7.682
+Mariah Carey, 1997, 12.456
+Jackie Wilson, 1958, 5.01
+Sam Brown, 1988, 5.917
+Eiffel 65, 2000, 7.68
+Cyndi Lauper, 1984, 12.455
+Hilary Duff, 2005, 5.007
+Kay Starr, 1956, 7.679
+N Sync, 2001, 5.917
+Take That, 1994, 5.007
+Roxette, 1991, 7.676
+Frankie Laine, 1956, 5.915
+Color Me Badd, 1991, 12.45
+Al Jolson, 1928, 5.007
+Stevie Wonder, 1974, 5.912
+3T, 1996, 7.676
+Van Halen, 1986, 5.006
+Tina Turner, 1985, 12.445
+Jason Donovan, 1989, 5.002
+Bette Midler, 1990, 7.673
+Association, 1966, 5.912
+Barbra Streisand, 1977, 12.442
+Sylvers, 1977, 5.002
+Bobby Hebb, 1966, 5.91
+Metro Station, 2008, 7.669
+Matthews Southern Comfort, 1971, 5
+Frankie Laine, 1949, 12.442
+Meat Loaf, 1978, 5
+The Ink Spots, 1939, 5.904
+Cher, 1971, 7.669
+Whitney Houston, 1986, 12.433
+Helen Forrest & Dick Haymes, 1945, 5
+Guess Who, 1969, 5.903
+Leona Lewis, 2008, 7.667
+Finger Eleven, 2007, 4.998
+Milli Vanilli, 1989, 12.431
+The Ink Spots, 1941, 5.903
+Adam & The Ants, 1981, 4.998
+Matchbox Twenty, 2000, 7.666
+Perry Como, 1945, 12.431
+The Kinks, 1967, 5.901
+Freddy Quinn, 1962, 4.998
+The Hollies, 1969, 7.661
+fun., 2012, 12.429
+The Smashing Pumpkins, 1996, 4.995
+Bon Jovi, 1992, 5.899
+Andy Gibb, 1977, 12.426
+Blind Lemon Jefferson, 1927, 4.992
+The Vengaboys, 1999, 7.66
+Canned Heat, 1968, 5.896
+Mariah Carey, 2000, 4.992
+Mary J Blige, 2001, 12.421
+Wings, 1975, 7.66
+Abba, 1976, 12.414
+Prince, 1992, 4.991
+Bachman-Turner Overdrive, 1975, 5.895
+Eminem, 2009, 7.656
+Truth Hurts, 2002, 4.99
+Ace of Base, 1994, 12.408
+Richard Marx, 1989, 5.895
+Archie Bell & The Drells, 1968, 4.989
+Mike & The Mechanics, 1989, 12.394
+Chuck Berry, 1955, 7.656
+Neil Sedaka, 1975, 4.988
+Kansas, 1978, 5.895
+Elvis Presley, 1972, 7.654
+Nelly, 2004, 12.385
+Elton John, 1976, 4.984
+Patsy Cline, 1961, 7.65
+Johnny Horton, 1960, 4.983
+Milli Vanilli, 1990, 5.891
+Kelly Clarkson, 2006, 12.384
+Johnny Cash, 1963, 7.648
+Madonna, 1985, 4.978
+Sheena Easton, 1989, 4.978
+Barry White, 1974, 7.647
+Simon & Garfunkel, 1968, 12.379
+Andy Williams, 1957, 5.891
+Vanilla Ice, 1991, 4.975
+The Zombies, 1969, 7.646
+Christopher Cross, 1981, 12.372
+The Sweet, 1971, 4.974
+Boney M, 1977, 7.645
+Michael Damian, 1989, 5.89
+Four Aces, 1955, 4.973
+Kenny Ball & his Jazzmen, 1962, 7.641
+Four Aces, 1955, 12.358
+Real Life, 1984, 4.973
+Tee Set, 1970, 7.638
+Ellie Goulding, 2012, 5.89
+George Michael, 1988, 12.351
+Gary Wright, 1976, 7.634
+Slade, 1973, 4.972
+Paul Anka, 1974, 7.633
+Glenn Miller, 1942, 5.89
+Whitesnake, 1987, 4.97
+Linkin Park, 2001, 12.335
+Paul Young, 1983, 7.628
+Men At Work, 1982, 5.888
+The Beach Boys, 1965, 7.624
+Dean Martin, 1958, 5.887
+Art Garfunkel, 1975, 4.97
+The Doobie Brothers, 1979, 12.335
+Electric Light Orchestra, 1979, 7.623
+The Killers, 2004, 5.887
+Snap, 1990, 7.622
+September, 2008, 4.97
+Pussycat, 1976, 12.331
+Paul Simon, 1973, 5.885
+Skeeter Davis, 1963, 7.619
+Tennessee Ernie Ford, 1955, 5.883
+Milli Vanilli, 1988, 12.325
+Blondie, 1979, 4.969
+Louis Armstrong, 1928, 7.619
+Justin Timberlake, 2007, 5.883
+Tommy Edwards, 1958, 12.317
+ABC, 1982, 7.619
+Seduction, 1990, 5.879
+Celine Dion, 1997, 7.615
+2Pac & Elton John, 2005, 5.878
+Perry Como, 1946, 12.312
+Louis Jordan, 1945, 7.614
+Henry Mancini, 1963, 5.877
+Blondie, 1980, 12.309
+The Beatles, 1965, 7.612
+The Eurythmics, 1984, 5.876
+Rick James, 1981, 4.968
+Elvis Presley, 1961, 12.307
+Soulja Boy, 2007, 5.875
+Art Garfunkel, 1979, 7.608
+The Drifters, 1963, 5.874
+Donna Lewis, 1996, 12.304
+Glenn Miller, 1941, 7.607
+Marilyn Manson, 2002, 4.968
+Duke Ellington, 1934, 5.873
+Celine Dion, 2002, 7.606
+Gilbert O'Sullivan, 1972, 12.302
+Paul McCartney, 1993, 5.872
+Tom Petty & The Heartbreakers, 1989, 4.966
+The Carpenters, 1971, 7.603
+Diana Ross, 1986, 5.871
+Captain & Tennille, 1976, 4.966
+Rod Stewart, 1983, 12.3
+Wham!, 1984, 7.601
+INXS, 1988, 5.871
+Mark Ronson & Amy Winehouse, 2007, 4.963
+Merril Bainbridge, 1996, 7.6
+The Smurfs, 1978, 5.868
+Dolly Parton, 1981, 12.286
+Bee Gees, 1979, 5.868
+Alanis Morissette, 1996, 7.591
+Elvis Presley, 1958, 4.963
+Kay Kyser, 1948, 12.284
+Mattafix, 2005, 5.866
+Dire Straits, 1986, 7.588
+Boston, 1986, 4.962
+Sarah McLachlan, 1998, 5.865
+Eddie Fisher, 1953, 12.283
+Lou Rawls, 1976, 7.587
+Aerosmith, 1976, 5.865
+Salt-N-Pepa, 1988, 7.586
+Spencer Davis Group, 1967, 4.962
+Rihanna, 2005, 12.28
+The Sweet, 1975, 5.864
+Stevie Wonder, 1977, 7.585
+Michael Bolton, 1991, 5.862
+The Backstreet Boys, 1997, 12.265
+Sting, 1985, 4.962
+Grand Funk Railroad, 1974, 7.585
+Daniel Bedingfield, 2002, 5.861
+The Beach Boys, 1964, 7.585
+The Hollies, 1974, 12.263
+Bread, 1977, 4.961
+Paula Abdul, 1989, 5.861
+Rudy Vallee & his Connecticut Yankees, 1943, 7.583
+Afroman, 2001, 12.263
+Poison, 1990, 5.859
+Alanis Morissette, 1995, 4.959
+Santana, 1970, 7.58
+The Script, 2011, 5.858
+Dean Martin, 1953, 12.254
+Peggy Lee, 1958, 7.577
+Cat Stevens, 1970, 4.959
+Destiny's Child, 2001, 5.858
+Mariah Carey, 1998, 7.577
+Bing Crosby, 1944, 12.25
+Ricky Nelson, 1972, 5.856
+Neil Sedaka, 1961, 4.959
+Jason Derulo, 2010, 7.571
+Buggles, 1979, 12.234
+Warren G, 1997, 5.856
+Albert Hammond, 1972, 7.569
+Nelly, 2002, 12.232
+Harry Chapin, 1974, 5.855
+Britney Spears, 2002, 4.955
+Rod Stewart, 1975, 12.228
+Jigsaw, 1975, 5.853
+Hank Williams, 1953, 7.568
+Boy Meets Girl, 1988, 4.953
+The Black Eyed Peas, 2005, 12.226
+Three Dog Night, 1973, 5.853
+Jimmy Dorsey, 1944, 12.218
+Mr Oizo, 1999, 7.562
+Thin Lizzy, 1976, 5.847
+Fatboy Slim, 1998, 4.952
+The Rolling Stones, 1965, 12.215
+Coldplay, 2011, 5.845
+Imagination, 1982, 7.561
+Sean Paul, 2006, 12.214
+Creed, 2000, 5.844
+Abba, 1979, 4.951
+Michael Jackson & Siedah Garrett, 1987, 12.213
+Sammy Kaye, 1945, 7.56
+Asia, 1982, 5.842
+Simply Red, 2003, 4.951
+Usher & Alicia Keys, 2004, 12.209
+Blood Sweat & Tears, 1969, 5.842
+Ella Fitzgerald & The Ink Spots, 1944, 7.559
+DNA & Suzanne Vega, 1990, 12.209
+Billy Preston, 1973, 5.832
+Blu Cantrell, 2001, 4.949
+Jet, 2003, 7.558
+Jesse McCartney, 2005, 5.832
+Silver Convention, 1975, 12.208
+50 Cent, 2003, 5.83
+Diana Ross & The Supremes, 1967, 4.949
+Will Smith, 1998, 12.198
+The Prodigy, 1996, 7.553
+Metallica, 1989, 5.83
+Evanescence, 2004, 12.197
+Linda Ronstadt & Aaron Neville, 1989, 7.549
+Aretha Franklin, 1968, 5.829
+DHT & Edmee, 2005, 4.949
+Jordin Sparks & Chris Brown, 2008, 12.197
+Janet Jackson & Q-Tip & Joni Mitchell, 1997, 5.829
+Meco, 1977, 7.549
+George Harrison, 1988, 12.196
+The Fugees, 1996, 4.947
+Madonna, 1993, 5.828
+Fergie, 2006, 12.192
+Simon & Garfunkel, 1970, 7.544
+Split Enz, 1980, 5.826
+Seal, 1997, 4.946
+MC Sar & The Real McCoy, 1994, 12.191
+Culture Club, 1984, 5.824
+Ashlee Simpson, 2004, 7.542
+Sara Bareilles, 2008, 12.174
+Gino Vannelli, 1978, 5.823
+INXS, 1988, 4.944
+Donna Summer, 1979, 12.16
+Shirley Bassey, 1965, 7.541
+Slade, 1973, 5.822
+Tommy Dorsey & Frank Sinatra, 1940, 12.157
+The Supremes, 1967, 4.942
+The Beach Boys, 1966, 5.82
+The Coasters, 1958, 7.535
+Duran Duran, 1993, 12.141
+Whitney Houston & Faith Evans & Kelly Price, 1999, 5.818
+SWV, 1993, 4.942
+Paul McCartney & Michael Jackson, 1982, 7.534
+The Village People, 1979, 12.139
+Diana Ross, 1973, 5.818
+Fred Astaire, 1936, 12.135
+The Monkees, 1967, 7.534
+Supertramp, 1980, 4.942
+DJ Jurgen & Alice DeeJay, 1999, 5.816
+George Michael, 1996, 12.124
+Bing Crosby, 1937, 7.533
+Def Leppard, 1988, 5.814
+Alanis Morissette, 2004, 4.941
+Bobby Darin, 1959, 12.106
+James Brown, 1966, 5.813
+Ohio Players, 1976, 4.94
+Wings, 1978, 7.53
+Tom Jones, 1970, 5.813
+The Cardigans, 1997, 12.104
+Gary Glitter, 1973, 4.939
+2Pac, 1995, 5.811
+East 17, 1994, 7.528
+Clint Holmes, 1973, 4.937
+Abba, 1977, 12.101
+Katrina & The Waves, 1985, 5.811
+Celine Dion & Peabo Bryson, 1992, 7.525
+Jimmie Davis, 1940, 5.81
+The Diamonds, 1957, 12.099
+Donna Summer, 1980, 5.81
+Four Aces, 1955, 7.524
+Marshall Hain, 1978, 5.807
+Barry White, 1975, 12.097
+Janet Jackson, 1993, 7.524
+Whitney Houston, 1997, 5.806
+Van McCoy, 1975, 12.093
+Bell Biv Devoe, 1990, 5.806
+Baccara, 1977, 7.52
+Adamski, 1990, 5.806
+Madonna, 1985, 12.087
+The Toys, 1965, 5.805
+Etta James, 1961, 7.517
+Stacey Q, 1986, 4.935
+Train, 2001, 12.082
+Lutricia McNeal, 1997, 5.804
+Glenn Medeiros & Bobby Brown, 1990, 7.516
+Heart, 1977, 5.802
+Patti Smith Group, 1978, 4.934
+Rose Royce, 1977, 12.082
+Shaun Cassidy, 1977, 5.799
+Goombay Dance Band, 1980, 7.513
+Mouth & MacNeal, 1972, 4.934
+Fats Domino, 1960, 5.799
+Chris Brown & Juelz Santana, 2006, 12.069
+Visage, 1981, 7.51
+Bryan Adams, 1996, 4.934
+Zhane, 1993, 5.799
+Marvin Gaye, 1983, 12.068
+Roy Orbison, 1962, 5.797
+Petula Clark, 1963, 4.933
+Tina Turner, 1989, 7.5
+David Guetta & Usher, 2011, 5.797
+Evelyn Knight, 1949, 12.063
+Frankie Avalon, 1960, 5.795
+Robert Palmer & UB40, 1990, 4.932
+Stacie Orrico, 2003, 7.496
+Billy Preston & Syreeta, 1980, 5.795
+Destiny's Child, 2000, 12.059
+Bobby Bloom, 1970, 4.932
+Simply Red, 1986, 7.493
+Brandy, 2002, 5.795
+Jeanette, 1977, 4.929
+Usher & Young Jeezy, 2008, 12.057
+Aerosmith, 1993, 7.492
+The Miracles, 1976, 5.794
+Ronan Keating, 2000, 4.926
+Janis Joplin, 1971, 12.052
+Shakin' Stevens, 1982, 7.492
+10CC, 1970, 5.793
+The Everly Brothers, 1962, 4.926
+Madonna, 1998, 12.048
+The Young Rascals, 1968, 7.49
+Thomas Dolby, 1983, 5.792
+The Walker Brothers, 1966, 4.926
+Louis Armstrong, 1968, 12.047
+Bobby Lewis, 1961, 7.489
+Poison, 1989, 5.792
+Jimmy Ruffin, 1966, 4.926
+The Beatles, 1966, 12.031
+The Miracles, 1965, 5.79
+The Drifters, 1959, 7.489
+Sly Fox, 1986, 4.925
+The Pet Shop Boys, 1988, 12.028
+Counting Crows, 2004, 5.79
+Marvin Gaye, 1971, 7.484
+Herman's Hermits, 1965, 4.924
+Paula Abdul, 1991, 12.026
+Larry Clinton, 1939, 5.79
+Pearl Jam, 1999, 7.476
+Linkin Park, 2007, 4.923
+Dana, 1970, 5.789
+Jay-Z & Linkin Park, 2005, 12.018
+The Osmonds, 1972, 7.474
+The Rolling Stones, 1967, 4.923
+Chicago, 1970, 5.789
+U2 & Green Day, 2006, 12.017
+The Orioles, 1953, 7.473
+George Michael, 2004, 4.923
+Glenn Miller, 1940, 5.789
+Fred Astaire & Leo Reisman, 1932, 12.013
+Fred Astaire, 1937, 7.472
+Rozalla, 1991, 4.922
+Destiny's Child & T.I. & Lil' Wayne, 2005, 5.788
+George Benson, 1980, 7.466
+Abba, 1978, 12.012
+Take That, 2007, 4.922
+Todd Rundgren, 1973, 5.788
+Tommy Page, 1990, 4.921
+Shirley & Company, 1975, 12.007
+Silver Convention, 1976, 7.461
+Kanye West, 2009, 5.788
+Leona Lewis, 2009, 4.921
+Red Hot Chili Peppers, 1999, 7.46
+Kay Starr, 1952, 12.004
+Ryan Paris, 1983, 5.787
+Ultra Nate, 1997, 4.921
+Tavares, 1976, 7.457
+OMC, 1996, 11.998
+Foster the People, 2011, 5.786
+Salvatore Adamo, 1967, 4.918
+The O'Jays, 1973, 7.454
+The Fireballs, 1963, 11.995
+Ray Noble, 1934, 5.785
+Esther & Abi Ofarim, 1968, 4.918
+The Eurythmics, 1985, 7.452
+Gary Puckett & The Union Gap, 1968, 11.989
+Heart, 1986, 5.777
+Al Green, 1971, 4.918
+James Morrison, 2006, 7.451
+The Supremes, 1964, 11.976
+Bob Dylan, 1963, 5.775
+Kay Kyser, 1939, 4.917
+Dr Hook, 1979, 7.45
+Celine Dion, 1994, 11.974
+Bing Crosby, 1934, 5.774
+Brandy, 1996, 4.917
+Pseudo Echo, 1987, 7.448
+Eddie Fisher, 1954, 11.973
+Guns n' Roses, 1991, 5.774
+The Detroit Spinners, 1972, 4.916
+Taylor Swift, 2010, 5.774
+K-Ci & JoJo, 1998, 11.967
+Elvis Presley, 1963, 7.447
+Sly & The Family Stone, 1969, 5.773
+Macklemore & Ryan Lewis, 2013, 4.916
+Youssou N'Dour & Neneh Cherry, 1994, 11.958
+Madonna, 2008, 5.77
+Tina Turner, 1993, 7.447
+Culture Club, 1984, 4.916
+Olivia Newton-John, 1979, 5.769
+Nazareth, 1976, 11.926
+Def Leppard, 1992, 7.444
+Ike & Tina Turner, 1971, 5.769
+Rod Stewart, 1991, 4.916
+America, 1972, 11.924
+Ram Jam, 1977, 5.769
+The Rolling Stones, 1986, 4.915
+Gloria Estefan, 1989, 7.443
+The Jackson 5, 1970, 11.919
+Madcon, 2008, 5.768
+Vaughn Monroe, 1942, 4.915
+Elvis Presley, 1956, 11.907
+Blu Cantrell, 2003, 7.442
+OneRepublic, 2010, 5.768
+Air Supply, 1983, 4.912
+Sam Cooke, 1960, 11.905
+Helen Reddy, 1973, 5.764
+Bing Crosby, 1944, 7.438
+John Lennon, 1974, 4.912
+Peabo Bryson & Roberta Flack, 1983, 5.764
+Phil Harris, 1950, 11.898
+The Kinks, 1965, 4.91
+Chuck Berry, 1972, 7.435
+Genesis, 1992, 5.763
+Brenda Lee, 1960, 11.894
+PM Dawn, 1992, 4.91
+Status Quo, 1986, 5.762
+Sean Paul, 2003, 11.89
+Kelly Clarkson, 2002, 7.433
+Jann Arden, 1996, 4.908
+Shania Twain, 1999, 11.89
+Elegants, 1958, 5.76
+Creedence Clearwater Revival, 1970, 7.433
+The Stray Cats, 1981, 4.907
+Monica, 1995, 5.76
+Usher & will.i.am, 2010, 11.89
+The Pussycat Dolls, 2008, 7.433
+Gavin Degraw, 2005, 4.907
+Matthew Wilder, 1984, 5.759
+Frankie Laine, 1949, 11.875
+Sonny James, 1956, 4.907
+Hurricane Smith, 1973, 5.759
+Paula Abdul, 1989, 7.432
+Kenny Loggins, 1986, 4.905
+Flo-Rida, 2012, 11.867
+Joy Division, 1980, 5.756
+Britney Spears, 2009, 7.432
+Texas, 1997, 4.905
+Whitney Houston, 1995, 11.866
+Brenda Lee, 1962, 5.756
+Roxette, 1990, 7.431
+Jack McVea & his Band, 1947, 4.905
+Duran Duran, 1984, 11.86
+Janet Jackson, 1990, 7.427
+Cliff Richard, 1963, 5.756
+Madonna, 2002, 11.834
+Air Supply, 1980, 7.426
+Lorne Greene, 1964, 4.903
+Phil Collins, 1990, 5.756
+Katy Perry, 2011, 7.425
+Madonna, 1999, 11.827
+Jamiroquai, 1998, 5.754
+Baz Luhrmann, 1999, 4.903
+Fergal Sharkey, 1985, 7.425
+Prince, 1984, 11.825
+Brian Hyland, 1962, 5.753
+Helen Reddy, 1973, 7.421
+Coldplay, 2002, 4.902
+Tom Jones, 1967, 11.816
+Will To Power, 1989, 7.421
+Horace Heidt, 1941, 5.753
+Peter, Paul & Mary, 1963, 4.901
+Enya, 1988, 11.8
+Pharrell Williams, 2014, 7.418
+Jewel, 2003, 5.753
+Bobby Day, 1958, 4.901
+The Black Eyed Peas, 2006, 7.414
+Steppenwolf, 1968, 11.79
+Boyzone, 1996, 5.752
+Sir Mix-a-Lot, 1992, 7.412
+Simple Minds, 1985, 11.789
+Adam & The Ants, 1981, 4.901
+Blood Sweat & Tears, 1969, 7.409
+Billy Jones, 1923, 5.749
+Abba, 1979, 11.787
+All-American Rejects, 2009, 7.407
+Jimmy Boyd & Frankie Laine, 1953, 4.9
+Wings, 1974, 11.786
+Elton John, 1975, 5.748
+Cascades, 1963, 7.406
+The Beatles, 1996, 4.898
+Dee Clark, 1961, 5.748
+Kate Smith, 1939, 11.78
+Sam Smith, 2014, 4.897
+MC Hammer, 1990, 7.406
+Cliff Richard, 1976, 5.748
+Mariah Carey, 1999, 11.755
+Hot Chocolate, 1977, 4.897
+The Jackson 5, Mick Jagger & Michael Jackson, 1984, 5.747
+Woody Herman, 1942, 7.405
+Harry James, 1942, 11.746
+Bob Marley, 1980, 4.896
+Patrick Swayze, 1988, 5.747
+Frankie Valli, 1975, 7.404
+Next, 1998, 11.742
+Glenn Miller, 1940, 4.895
+Bob Dylan, 1973, 5.746
+Amy Macdonald, 2008, 7.403
+Genesis, 1983, 4.894
+1910 Fruitgum Co, 1968, 11.731
+Benny Goodman, 1943, 7.399
+Dobie Gray, 1973, 5.746
+Nik Kershaw, 1984, 4.894
+The Partridge Family, 1970, 11.729
+The Black Eyed Peas, 2004, 7.399
+Kelly Clarkson, 2005, 5.743
+Tina Turner, 1995, 4.893
+Leo Sayer, 1977, 11.722
+Sammy Kaye, 1946, 7.397
+B2K & P Diddy, 2003, 5.743
+Al Jolson, 1947, 4.893
+Perry Como, 1954, 11.722
+Badfinger, 1972, 7.394
+Louis Jordan, 1944, 5.742
+Irish Rovers, 1968, 4.892
+The Carpenters, 1973, 11.721
+Britney Spears, 2004, 5.742
+The Four Seasons, 1963, 7.391
+Elton John, 1982, 4.891
+Madonna, 1987, 5.742
+Madonna, 1989, 11.714
+Eric Clapton, 1998, 4.889
+Red Foley, 1950, 7.382
+Nat King Cole, 1955, 5.74
+DJ Jazzy Jeff & The Fresh Prince, 1993, 11.707
+Gazebo, 1983, 5.74
+Blue Cheer, 1968, 4.889
+Perry Como, 1956, 7.381
+Toni Braxton, 1993, 5.74
+Chaka Khan, 1984, 11.68
+Red Hot Chili Peppers, 2000, 4.888
+Nino Tempo & April Stevens, 1963, 5.739
+Peter & Gordon, 1964, 7.38
+The Foundations, 1969, 11.672
+Glass Tiger, 1986, 5.737
+The Pointer Sisters, 1984, 4.888
+Hootie & The Blowfish, 1995, 5.736
+Jeannie C Riley, 1968, 7.378
+Katy Perry & Kanye West, 2011, 11.664
+The Turtles, 1968, 5.732
+Billie Myers, 1998, 4.888
+Hollywood Argyles, 1960, 5.731
+Red Hot Chili Peppers, 2006, 7.375
+Britney Spears, 2004, 11.65
+Counting Crows, 2003, 4.887
+The Mills Brothers, 1950, 5.731
+Vicky Leandros, 1972, 5.731
+Depeche Mode, 1993, 7.373
+Sly & The Family Stone, 1971, 11.65
+Stevie Wonder, 1963, 4.886
+Take That, 1995, 5.73
+Kraftwerk, 1975, 4.885
+Paul Whiteman, 1920, 11.646
+Georgia Gibbs, 1952, 5.73
+Alanis Morissette, 1995, 7.366
+Usher, 2011, 5.728
+Bread, 1971, 4.884
+The Beatles, 1966, 11.636
+Sam & Dave, 1967, 7.356
+The Jackson 5, 1971, 5.728
+Jermaine Jackson & Pia Zadora, 1984, 4.884
+Donny Osmond, 1973, 5.727
+Estelle & Kanye West, 2008, 11.635
+Vangelis, 1982, 7.356
+James Blunt, 2006, 4.879
+Jimmy Soul, 1963, 5.725
+Jordin Sparks, 2008, 5.725
+Mariah Carey, 1992, 11.633
+Abba, 1979, 7.354
+Julius Larosa, 1953, 4.879
+Lynyrd Skynyrd, 1974, 5.724
+Patti Page, 1953, 11.633
+Dinah Shore, 1951, 4.877
+Jan & Kjeld, 1960, 5.723
+Nu Shooz, 1986, 7.347
+BoB & Hayley Williams, 2010, 11.629
+Ja Rule & Ashanti, 2002, 5.72
+Usher, 2004, 11.621
+Joni Mitchell, 1970, 4.877
+Phil Collins, 1999, 7.345
+Modern Talking, 1985, 5.719
+Gorillaz, 2005, 11.617
+Shawn Mullins, 1999, 4.876
+The Equals, 1968, 5.719
+Neil Diamond, 1972, 11.607
+Dr Alban, 1992, 7.344
+Kelly Clarkson, 2012, 5.718
+Eros Ramazzotti, 1996, 4.875
+Bobby Vinton, 1962, 11.606
+En Vogue, 1992, 5.718
+Don Cornell, 1954, 11.603
+Bee Gees, 1969, 7.343
+Russ Conway, 1959, 4.874
+Sam Cooke, 1959, 5.717
+Engelbert Humperdinck, 1967, 11.587
+Daddy Yankee, 2005, 5.716
+Mika, 2007, 4.873
+Terence Trent D'Arby, 1988, 7.34
+Timbaland & Nelly Furtado & Justin Timberlake, 2007, 11.575
+T Rex, 1972, 5.715
+Daft Punk, 1997, 4.872
+Mariah Carey, 1992, 5.715
+P Diddy, Usher & Loon, 2002, 7.338
+J Geils Band, 1982, 5.713
+Shawn Colvin, 1997, 4.871
+Les Baxter & his Orchestra, 1956, 5.711
+Elton John, 1974, 7.338
+War, 1975, 4.869
+Mario Winans, 2004, 11.567
+Depeche Mode, 1984, 5.711
+Fleetwood Mac, 1977, 7.337
+The Backstreet Boys, 1997, 11.557
+Typically Tropical, 1975, 5.706
+Jay & the Americans, 1964, 4.869
+Christina Aguilera, 2006, 11.551
+Lonestar, 2000, 5.704
+Andy Williams, 1963, 4.867
+Madonna, 1996, 7.335
+Jimmie Rodgers, 1928, 11.535
+The Stylistics, 1972, 5.704
+Aaliyah, 2003, 4.867
+Wilson Phillips, 1990, 11.527
+Janet Jackson, 1990, 5.703
+Jamiroquai, 1996, 7.334
+Bing Crosby & The Andrews Sisters, 1945, 5.7
+Bill Justis, 1957, 4.867
+Peggy Lee, 1948, 11.526
+Duke Ellington, 1927, 7.333
+Big Bopper, 1958, 5.699
+Sophie B Hawkins, 1995, 4.866
+George Gershwin, 1924, 11.503
+Ferrante & Teicher, 1961, 5.698
+Maria McKee, 1990, 7.332
+Bette Midler, 1980, 5.698
+Little Richard, 1956, 11.498
+Aerosmith, 1977, 4.863
+The Supremes, 1966, 7.332
+Tommy Dorsey & Frank Sinatra, 1943, 5.697
+Benny Goodman, 1937, 11.496
+Diana Ross & The Supremes & The Temptations, 1969, 4.863
+Ben E King, 1961, 5.693
+Smokie, 1977, 11.488
+Mario Lanza, 1952, 7.331
+Pink, 2011, 4.861
+Chris Rea, 1978, 5.692
+New Kids On The Block, 1990, 11.479
+The Pretenders, 1994, 5.691
+Kool & The Gang, 1982, 7.33
+Manfred Mann, 1968, 11.472
+McFadden & Whitehead, 1979, 4.861
+The Script & will.i.am, 2012, 5.691
+The Troggs, 1966, 11.465
+Nickelback, 2003, 7.33
+Corinne Bailey Rae, 2006, 4.86
+Shocking Blue, 1970, 5.691
+2 Unlimited, 1993, 11.448
+Chic, 1979, 5.689
+Hoobastank, 2004, 11.447
+Joe Jackson, 1982, 4.86
+Donny Osmond & Marie Osmond, 1974, 7.328
+Roxy Music, 1975, 5.685
+Laura Branigan, 1984, 11.446
+Coldplay, 2008, 4.859
+Enrique Iglesias, 1999, 5.685
+Richard Marx, 1992, 7.32
+Eddie Fisher, 1954, 11.427
+The Sons of the Pioneers, 1934, 5.685
+One Direction, 2013, 4.858
+Faith Hill, 2001, 7.319
+Badfinger, 1970, 5.685
+Savage Garden, 1997, 11.424
+The O'Jays, 1978, 4.857
+Usher & Pitbull, 2010, 5.685
+Bobby Brown, 1989, 7.318
+The Mamas & The Papas, 1966, 11.421
+Arrested Development, 1993, 5.685
+Argent, 1972, 4.855
+Manfred Mann's Earth Band, 1977, 7.317
+Jack Smith, 1927, 5.685
+The Black Eyed Peas, 2009, 11.415
+Bing Crosby, 1944, 4.855
+Will Smith, 1999, 5.684
+Henry Gross, 1976, 7.315
+Madonna, 1994, 11.411
+The Ames Brothers, 1950, 4.853
+Sade, 1985, 5.682
+Frank Sinatra, 1947, 7.315
+Offspring, 1999, 5.682
+Michael Jackson, 1987, 11.411
+Shirley Temple, 1935, 4.852
+The Black Eyed Peas, 2010, 5.679
+David Bowie, 1980, 7.312
+Information Society, 1988, 4.852
+Lisa Loeb & Nine Stories, 1994, 11.407
+Ja Rule, 2004, 5.677
+David Bowie, 1983, 7.31
+Chuck Berry, 1957, 4.85
+Jerry Lee Lewis, 1957, 11.399
+The Hollies, 1966, 7.307
+Marti Webb, 1980, 4.848
+Blondie, 1981, 11.392
+Chubby Checker, 1962, 7.307
+Quad City DJs, 1996, 4.848
+Mariah Carey, 1993, 11.389
+Boy George, 1987, 7.3
+Westlife, 2002, 4.847
+Highwaymen, 1961, 11.388
+The Andrews Sisters, 1941, 7.298
+Bing Crosby, 1945, 4.846
+Sonny & Cher, 1965, 11.386
+Kanye West, 2008, 7.295
+David Bowie, 1973, 4.846
+Debbie Reynolds, 1957, 11.38
+Pink, 2009, 4.846
+Steve Miller Band, 1976, 7.291
+Guess Who, 1970, 11.378
+Ottawan, 1980, 4.844
+The Fleetwoods, 1959, 7.288
+Mario Lanza, 1951, 11.37
+Crosby, Stills, Nash & Young, 1970, 4.844
+U2, 2001, 7.288
+Nini Rosso, 1965, 11.348
+Soulja Boy, 2009, 4.844
+Lenny Kravitz, 1993, 7.287
+Madonna, 1994, 11.348
+Amy Grant, 1991, 4.843
+Poppy Family, 1970, 7.286
+The Jackson 5, 1970, 11.342
+Abba, 1973, 4.842
+Taylor Dayne, 1990, 7.285
+Bruno Mars, 2012, 11.341
+Frank Sinatra, 1944, 4.841
+Creedence Clearwater Revival, 1971, 7.284
+The Beatles, 1970, 11.337
+The Sandpipers, 1966, 4.84
+Harpo, 1976, 7.284
+Justin Bieber, 2012, 4.84
+Technotronic, 1990, 11.329
+Four Aces, 1952, 7.283
+Kenny Rogers, 1969, 4.839
+Enya, 2001, 11.322
+Robin Gibb, 1969, 7.283
+Eddie Fisher, 1952, 4.836
+Melanie, 1972, 11.322
+Jewel, 1997, 7.281
+Rick Astley, 1988, 11.308
+Arcadia, 1985, 4.835
+Pop Tops, 1971, 11.284
+Beyonce & Jay-Z, 2003, 7.28
+Bing Crosby, 1934, 4.835
+Cliff Richard, 1959, 11.271
+Lenny Kravitz, 1999, 7.28
+Johnnie Ray, 1956, 11.269
+Air Supply, 1980, 4.834
+Inner Circle, 1992, 11.269
+Lisa Lisa & Cult Jam, 1987, 7.28
+Barry White, 1974, 4.833
+Billy Ray Cyrus, 1992, 11.264
+Sade, 1984, 7.279
+Michael Jackson, 1992, 11.264
+Vaughn Monroe, 1949, 4.833
+Aaliyah, 2000, 11.256
+Guy Mitchell, 1959, 7.279
+LL Cool J, 1996, 4.833
+Janet Jackson, 1990, 11.245
+Paul Anka, 1960, 7.278
+Johnny Mathis, 1958, 4.832
+Meredith Brooks, 1997, 11.242
+Renee & Renato, 1983, 4.832
+Natalie Cole & Nat King Cole, 1991, 7.278
+Andy Kim, 1969, 4.831
+Snow Patrol, 2006, 7.277
+2Pac & Dr Dre, 1996, 11.236
+B*Witched, 1998, 4.831
+The Who, 1965, 7.277
+Sabrina, 1987, 4.831
+The Rolling Stones, 1966, 11.225
+Nelly Furtado, 2001, 7.276
+No Doubt, 2002, 4.83
+Don Henley, 1985, 11.223
+Duke Ellington, 1941, 7.276
+Don Costa, 1960, 4.83
+EMF, 1991, 11.216
+The Goo Goo Dolls, 1996, 7.275
+Ne-Yo, 2006, 11.212
+The Allman Brothers Band, 1973, 4.83
+The Everly Brothers, 1961, 7.274
+Cappella, 1994, 4.826
+KC & The Sunshine Band, 1975, 11.207
+Hank Locklin, 1960, 4.825
+The Penguins, 1954, 7.274
+Steve Winwood, 1986, 11.203
+Christina Aguilera, 2003, 4.824
+The Ink Spots, 1949, 7.272
+Right Said Fred, 1992, 4.823
+Connie Francis, 1958, 11.202
+Nat King Cole, 1954, 7.268
+Marion Harris, 1925, 4.822
+Simply Red, 1989, 11.198
+Harry Nilsson, 1969, 7.265
+Lonnie Donegan, 1960, 4.822
+Adele, 2012, 11.183
+Bruno Mars, 2011, 7.262
+George Benson, 1982, 4.822
+Elvis Presley, 1960, 11.175
+Rupert Holmes, 1980, 7.258
+Leila K & Rob 'n' Raz, 1990, 4.821
+Cheap Trick, 1979, 7.257
+Robert Palmer, 1986, 11.175
+Babyface, 1997, 4.821
+Sophie Tucker, 1911, 7.254
+Kelis, 2004, 11.157
+Billy Ocean, 1986, 7.254
+Bobby Sherman, 1969, 4.818
+Technotronic, 1989, 11.155
+Az Yet, 1997, 7.254
+Mary J Blige, 1992, 4.818
+The Monkees, 1967, 11.155
+Genesis, 1991, 7.253
+Mariah Carey, 2005, 4.816
+Al Hibbler, 1955, 11.154
+S Club 7, 2001, 7.251
+Crazy Town, 2001, 11.154
+Prince, 1990, 7.249
+Jimmie Rodgers, 1957, 4.815
+Rob Thomas, 2005, 7.249
+Elvis Presley, 1965, 11.154
