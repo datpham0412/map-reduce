@@ -17,4 +17,4 @@ if __name__ == '__main__':
     TotalSalesByArtistYear().run()
 
 #Command to compile the file:
-#python .\task1_2.py task1_1_output.txt -o task1_2_output.txt
+#python .\task1_2.py task1_1_output.txt > task1_2_output.txt

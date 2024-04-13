@@ -37,4 +37,4 @@ if __name__ == '__main__':
     TopSellingArtists.run()
     
 #Command to compile the file:
-#python .\task2_2.py task1_2_output.txt -o task2_2_output.txt
+#python .\task2_2.py task1_2_output.txt > task2_2_output.txt

@@ -66,3 +66,5 @@ class TopSellingArtistsByDecade(MRJob):
 
 if __name__ == '__main__':
     TopSellingArtistsByDecade.run()
+#Command line to run the file:
+#python .\task2_2.py task1_2_output.txt > task2_2_output.txt

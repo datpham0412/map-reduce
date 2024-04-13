@@ -64,4 +64,4 @@ if __name__ == '__main__':
     TopSellingArtistByYear().run()
     
 # Command to compile the file:
-# python .\task2_1.py task1_2_output.txt -o task2_1_output.txt
+# python .\task2_1.py task1_2_output.txt > task2_1_output.txt
